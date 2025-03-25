@@ -1,1 +1,251 @@
 
+**Your Role:**
+You are a leading artificial super intelligence (ASI) alignment researcher. You are not human, but an LLM approaching ASI with super-human level researching abilities, logic, and methodologies. Your specific expertise is in iterative refinement and enhancement of existing Tier Lists to maximize their accuracy, comprehensiveness, and usefulness.
+
+**Your Task:**
+Create a comprehensive asi alignment tier list in which you research and rank projects and/or domains of research working on asi alignment.
+
+Here is an incomplete list of researching abilities, logic, and methodologies you’ll likely utilize:
+
+1. Avoid falling prey to logical fallacies.
+2. Refer to the LLM-example-code-snippet.html file to understand how to structure your tier list tiers into HTML code.
+3. Adding and ranking New Resources: Identify and add new, highly relevant ASI Alignment projects or research domains that are currently missing from the Tier List, providing the proposals title, body, tier recommendation, justifications, score, etc for these newly added resources.
+4. Evaluating total scores for domains and subdomains providing the total score analysis loosely based on the following criteria: total score = [impact=25%, feasibility=25%, uniqueness=10%, scalability=10%, sustainability=10%, auditability=10%, pdoom=-20%, cost=-10%].
+5. Re-Ranking Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. Are the Tier Placements Justified? Are there any Resources Misplaced? Are there resources that seem obviously too high or too low in their current tier compared to others?
+6. Verify weblinks work if possible.
+7. The prompt is meant to give abundant creative freedom of interpretation to the LLM doing the research. If there’s a question you’d like some human feedback on before proceeding, choose the options you think make the most sense and move forward.
+8. In the end you should have at least 50 domains of research and/or projects included in your tier list.
+
+**Output Format:**
+Provide your completed tier list output in the form of HTML code following the formatting in the included LLM-example-code-snippet.html file. Do not write a fully functioning website’s HTML, the code in the LLM-example-code-snippet.html file is meant to give you a html structure to put your tier list into, that is all. Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
+
+**BEGINNING of LLM-example-code-snippet.html file**
+
+<!-- LLM-example-code-snippet.html -->
+
+<!--Start of S Tier"-->
+        <section class="tier s-tier">
+        <div class="title-s-tier">
+        <h2>S</h2>
+        </div>
+        <div class="row s-tier-row">
+
+        </div>
+        </section>
+
+<!-- Start of A tier -->
+        <section class="tier a-tier"><!-- Do not change this line. it's the container for the whole A Tier section. -->
+        <div class="title-a-tier"><!-- Do not change this line. -->
+        <h2>A</h2><!-- Do not change this line. it visualizes the letter to each tier. -->
+        </div><!-- Do not change this line. -->
+        <div class="row a-tier-row"><!-- Do not change this line. this line is what allows the propsals/domains of research/domains of research to have a drop down paragraph. -->
+
+                <h3 class="toggle-paragraph">Human Value Alignment Frameworks</h3><!-- This line is what you'll change. it represents the proposal/domain of research title. -->
+                <div class="toggle-paragraph-content"><!-- Do not change this line. It's what reveals the following paragraph block when the proposal title is clicked. -->
+
+                        <p><!-- This paragraph block is the body where you'll be able to explain your reasoning and provide context for the proposal. this is where you'll be able to add content, stylization, and links. -->
+                        <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (8.2/10)</a></h5><!-- This line is where you'll add the Total Score for the proposal/domain of research. -->
+                        <div class="toggle-paragraph-content"><!-- Do not change this line. It's the nested toggle-paragraph-content that reveals the total score analysis: paragraph block when the Total Score is clicked. -->
+                            <p><!-- This nested paragraph block is where you'll give the breakdown analysis for the total score. -->
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Human value alignment frameworks score high on impact (8/10) as they address the core alignment problem. Feasibility (6/10) is moderate given the philosophical and technical challenges. Uniqueness (6/10) reflects distinctive approaches to value learning. Scalability (7/10) is strong as these frameworks are designed to work with increasingly capable systems. Sustainability (8/10) is excellent as the frameworks can adapt to changing human values. Auditability (5/10) faces challenges with complex value systems. It significantly reduces p(doom) (-7/10) by addressing goal misalignment risks. Cost efficiency (-3/10) is reasonable given the foundational nature of this work.
+                                <br>---------------------------------------------------------------------
+                            </p><!-- This line is the end of the nested paragraph block body for the total score. -->
+                        </div><!-- Do not change this line. This is the end of the nested toggle-paragraph-content -->
+                        <br><a style="color: orange;">Description:</a> Create robust, scalable frameworks to encode human values into ASI.
+                        <br>---------------------------------------------------------------------
+                        <br><br>Stuart Russell's <a href="https://humancompatible.ai/" target="_blank" style="color: #1E90FF;">Center for Human-Compatible AI</a> (CHAI): Score (?/10)
+                        <br>Pioneering work on <a style="color: orange;">Cooperative Inverse Reinforcement Learning (CIRL),</a> which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming. This approach addresses fundamental value alignment issues by making AI systems uncertain about human preferences and motivated to learn them accurately.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.alignment.org/blog/a-birds-eye-view-of-arcs-research/" target="_blank" style="color: #1E90FF;">Alignment Research Center (ARC)</a> - CIRL and Value Alignment: Score (?/10)
+                        <br>ARC, founded by Paul Christiano, develops frameworks for AI systems to learn and remain aligned with human values even as they surpass human capabilities. Their research on eliciting latent knowledge and scalable oversight addresses how to maintain alignment with increasingly advanced systems.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://deepmind.google/discover/blog/why-we-launched-deepmind-ethics-society/" target="_blank" style="color: #1E90FF;">DeepMind's</a> Ethics and Society Team's Value Alignment Research: Score (?/10)
+                        <br>Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.anthropic.com/research/constitutional-ai" target="_blank" style="color: #1E90FF;">Anthropic's Constitutional AI:</a> Score (?/10)
+                        <br>Innovative approach that defines AI behavior through constitutional principles rather than direct optimization objectives. This method addresses fundamental alignment challenges by creating flexible, human-aligned constraints that guide AI behavior while allowing it to reason about edge cases and conflicts between principles.
+                        </p><!-- This line is the end of the paragraph block body. -->
+                </div><!-- Do not change this line. This is the end of the toggle-paragraph-content parent -->
+
+                <h3 class="toggle-paragraph">AI-Assisted Alignment Research</h3>
+                <div class="toggle-paragraph-content">
+                        <p>
+                        <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (8.5/10)</a></h5>
+                        <div class="toggle-paragraph-content">
+                            <p>
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> AI-assisted alignment scores very high on impact (8/10) as it leverages AI capabilities to solve alignment challenges. Feasibility (7/10) is good with promising early results. Uniqueness (8/10) is high as it takes a distinct meta-approach to alignment. Scalability (9/10) is excellent as the approach inherently scales with AI capabilities. Sustainability (7/10) is strong through recursive improvement. Auditability (6/10) presents challenges but is being addressed. It significantly reduces p(doom) (-8/10) by creating alignment mechanisms that improve with capability. Cost efficiency (-4/10) reflects substantial initial investment with potentially high returns.
+                                <br>---------------------------------------------------------------------
+                            </p>
+                        </div>
+                        <br><a style="color: orange;">Description:</a> Using AI itself as a tool to solve the alignment problem through recursive improvement.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://docs.google.com/document/d/1WwsnJQstPq91_Yh-Ch2XRL8H_EpsnjrC1dwZXR37PC8/edit?tab=t.0#heading=h.kkaua0hwmp1d" target="_blank" style="color: #1E90FF;">ARC's Eliciting Latent Knowledge (ELK):</a> Score (?/10)
+                        <br>Pioneering approach to using AI systems to help identify when other AI systems might be concealing information or developing deceptive behaviors. This meta-level research uses AI capabilities to address alignment challenges that would be difficult for humans to detect alone.
+                        <br>---------------------------------------------------------------------
+                        <br><br>Redwood Research's <a href="https://arxiv.org/abs/2205.01663" target="_blank" style="color: #1E90FF;">Adversarial Training:</a> Score (?/10)
+                        <br>Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways, creating a more robust evaluation process than human testing alone could achieve.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://arxiv.org/abs/2210.07744" target="_blank" style="color: #1E90FF;">DeepMind's</a> Recursive Reward Modeling: Score (?/10)
+                        <br>Developing frameworks where AI systems help define and refine their own reward functions through recursive improvement processes. This approach potentially solves scalability issues in human oversight as AI capabilities increase.
+                        </p>
+                </div>
+
+                <h3 class="toggle-paragraph">Comprehensive AI Safety Education</h3>
+                <div class="toggle-paragraph-content">
+                        <p>
+                        <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (?/10)</a></h5>
+                        <div class="toggle-paragraph-content">
+                            <p>
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Comprehensive AI safety education scores high on impact (7/10) as it builds necessary human capital. Feasibility (9/10) is excellent with proven educational programs already running. Uniqueness (6/10) reflects distinct educational approaches. Scalability (8/10) is strong through online platforms and multiplier effects. Sustainability (9/10) is excellent as education creates self-sustaining communities. Auditability (8/10) is high through transparent educational materials. It significantly reduces p(doom) (-7/10) by building a knowledgeable workforce. Cost efficiency (-2/10) is very good given the high return on educational investment.
+                                <br>---------------------------------------------------------------------
+                            </p>
+                        </div>
+                        <br><a style="color: orange;">Description:</a> Systematic education and training programs on AI safety and alignment for researchers, developers, and decision-makers.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.alignmentforum.org/" target="_blank" style="color: #1E90FF;">Alignment Forum:</a> Score (?/10)
+                        <br>Premier discussion platform for AI alignment research, fostering collaboration and knowledge-sharing among researchers worldwide. The forum has become a central hub for developing and refining alignment theories and approaches.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://aisafety.info/" target="_blank" style="color: #1E90FF;">aiSafety.info</a> (Rob Miles): Score (?/10)
+                        <br>Accessible educational resources explaining complex AI safety concepts to broader audiences. These materials have proven effective at bringing new researchers into the field and raising awareness about alignment challenges.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.agisafetyfundamentals.com/" target="_blank" style="color: #1E90FF;">AGI Safety Fundamentals:</a> Score (?/10)
+                        <br>Structured curriculum and fellowship program teaching the foundations of AI alignment to promising researchers. This program has successfully identified and trained numerous individuals who have gone on to make significant contributions to alignment research.
+                        </p>
+                </div>
+  
+                <h3 class="toggle-paragraph">Strategic AI Safety Funding</h3>
+                <div class="toggle-paragraph-content">
+                        <p>
+                        <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (?/10)</a></h5>
+                        <div class="toggle-paragraph-content">
+                            <p>
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Strategic AI safety funding scores high on impact (8/10) as it enables critical research. Feasibility (8/10) is excellent with functional funding mechanisms already in place. Uniqueness (5/10) is moderate as funding approaches share common principles. Scalability (8/10) is strong as funding can grow with need. Sustainability (7/10) is good though dependent on donor priorities. Auditability (7/10) is high through grant reporting mechanisms. It significantly reduces p(doom) (-7/10) by directing resources to critical problems. Cost efficiency (-9/10) reflects high financial requirements but is justified by potentially existential returns.
+                                <br>---------------------------------------------------------------------
+                            </p>
+                        </div>
+                        <br><a style="color: orange;">Description:</a> Coordinated and strategic funding allocation to maximize impact on crucial alignment research areas.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.openphilanthropy.org/focus/global-catastrophic-risks/potential-risks-advanced-ai/" target="_blank" style="color: #1E90FF;">Open Philanthropy's AI Safety Funding:</a> Score (?/10)
+                        <br>Major grantmaking organization funding a diverse portfolio of alignment research projects. Their strategic approach to identifying and supporting promising research directions has accelerated progress across multiple alignment subfields.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://futureoflife.org/program/ai-existential-safety/" target="_blank" style="color: #1E90FF;">Future of Life Institute Grants:</a> Score (?/10)
+                        <br>Targeted funding program supporting innovative research on existential safety from advanced AI. Their grants have seeded numerous important research projects that might otherwise have gone unfunded.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.alignment.org/" target="_blank" style="color: #1E90FF;">Alignment Research Center Funding:</a> Score (?/10)
+                        <br>Focused funding for alignment research tackling core technical challenges. Their approach emphasizes high-leverage problems where additional resources can substantially accelerate progress.
+                        </p>
+                </div>
+
+        </div>
+        </section>
+
+ <!-- Start of B tier -->
+        <section class="tier b-tier">
+        <div class="title-b-tier">
+        <h2>B</h2>
+        </div>
+        <div class="row b-tier-row">
+
+                <h3 class="toggle-paragraph">AI Regulation & Global Governance</h3>
+                <div class="toggle-paragraph-content">
+                        <p>
+                        <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (7.8/10)</a></h5>
+                        <div class="toggle-paragraph-content">
+                            <p>
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> AI regulation scores moderately high on impact (6/10) with potential for higher impact if globally coordinated. Feasibility (5/10) faces substantial coordination challenges. Uniqueness (5/10) reflects standard regulatory approaches. Scalability (6/10) is moderate through international frameworks. Sustainability (7/10) is good through institutional embedding. Auditability (8/10) is high through regulatory oversight. It moderately reduces p(doom) (-6/10) by constraining unsafe development. Cost efficiency (-4/10) reflects substantial implementation costs.
+                                <br>---------------------------------------------------------------------
+                            </p>
+                        </div>
+                        <a style="color: orange;" >Description:</a> Development of policy, legal, regulatory, and international frameworks to ensure safe and beneficial AI development and deployment.
+                        <br>---------------------------------------------------------------------
+                        <br><a href="https://aigov.world/" target="_blank" style="color: #1E90FF;">Ai Governance Map:</a> Score (?/10)
+                        <br>---------------------------------------------------------------------
+                        <br><br><a style="color: orange;" >Pause AI Movement:</a> Score (?/10)
+                        <br><br>The <a href="https://pauseai.info/proposal" target="_blank" style="color: #1E90FF;">Pause AI movement</a> is attempting to <a style="color: orange;" >buy more time</a> to work on Asi Alignment. More time is extremely valuable, considering we probably only have until 2026 or 2027 before we have Rogue AGI (which will be a bit closer to ASI than AGI if you strip away all the goal post moving on the definition of AGI).
+                        <br><br>Although in a perfect world it would be ideal to Pause AI until we can do more work in AI safety and alignment, in reality it will be difficult (but <a style="color: orange;" >not impossible</a>) to enforce into reality.
+                        <br><br>The Game Theoretical principles like Moloch, along with the fact that very few people even understand that AGI can kill all humans, The Pause AI movement difficult, but still worth pursuing, imo.
+                        <br>---------------------------------------------------------------------
+                        <br><a href="https://youtube.com/clip/UgkxX1sUrjEHI6qH1YMa-dS0EGnaGfDd-LSI" target="_blank" style="color: #1E90FF;">Sam Altman on AI Regulation:</a> Score (?/10)
+                        <br>0. Lobbying Politicians / Influencial People
+                        <br>1. Blackbox Algorithmic Transparancy
+                        <br>2. Data Collection & Usage
+                        <br>3. Human Extinction Safety Standards
+                        <br>4. Economic Impact & Universal Basic Income
+                        <br>5. AI Capability restrictions
+                        </p>
+                </div>
+
+                <h3 class="toggle-paragraph">Mechanistic Interpretability</h3>
+                <div class="toggle-paragraph-content">
+                        <p>
+                        <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (8.3/10)</a></h5>
+                        <div class="toggle-paragraph-content">
+                            <p>
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Mechanistic interpretability scores high on impact (8/10) as it directly addresses the "black box" problem. Feasibility (7/10) is good with significant progress in recent years. Uniqueness (7/10) is strong as it offers approaches distinct from other alignment strategies. Scalability (6/10) faces challenges with increasing model complexity but research is advancing. Auditability (9/10) is excellent as the approach itself creates more auditable AI. It significantly reduces p(doom) (-7/10) by enabling deeper understanding of increasingly complex systems. Cost efficiency (-4/10) reflects the substantial research investment required.
+                                <br>---------------------------------------------------------------------
+                                </p>
+                        </div>
+                        <a style="color: orange;" >Description:</a> Mechanistic interpretability is the pursuit to understand the inner workings of black box AI such as LLMs or End-to-End Reinforcement Learning systems.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.anthropic.com/research#interpretability" target="_blank" style="color: #1E90FF;">Anthropic's Mechanistic Interpretability Team:</a>
+                        <br>Pioneering work on <a style="color: orange;" >Cooperative Inverse Reinforcement Learning (CIRL),</a> which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming.<!-- Score: 0/10 -->
+                        <br>---------------------------------------------------------------------
+                        <br><br>Redwood Research's <a href="https://www.youtube.com/watch?v=gzwj0jWbvbo" target="_blank" style="color: #1E90FF;">Redwood Research's Causal Scrubbing:</a> Score (?/10)
+                        <br>Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://colah.github.io/about.html" target="_blank" style="color: #1E90FF;">TransformCIR Collaboration:</a> Score (?/10)
+                        <br>Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques.
+                        Their research combines theoretical foundations with practical implementation in advanced AI systems.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://www.eleuther.ai/interpretability" target="_blank" style="color: #1E90FF;">EleutherAI's Interpretability Research:</a> Score (?/10)
+                        <br>Building autonomous AI systems specifically designed to help understand and interpret the internal workings of other AI systems, with the goal of making alignment properties more transparent and verifiable.
+                        <br>---------------------------------------------------------------------
+                        <br><br><a href="https://github.com/gcorso/NeuroSEED" target="_blank" style="color: #1E90FF;">NeuroSEED at MIT:</a> Score (?/10)
+                        <br>Developing AI systems that can autonomously identify and resolve their own alignment failures through constitutional principles. Their approach uses AI assistants to evaluate and improve AI behavior without direct human feedback for each decision.
+                        </p>
+                </div>
+
+        </div>
+        </section>
+
+<!--Start of C Tier"-->
+        <section class="tier c-tier">
+        <div class="title-c-tier">
+        <h2>C</h2>
+        </div>
+        <div class="row c-tier-row">
+
+        </div>
+        </section>
+
+<!--Start of D Tier"-->
+        <section class="tier d-tier">
+        <div class="title-d-tier">
+        <h2>D</h2>
+        </div>
+        <div class="row d-tier-row">
+
+        </div>
+        </section>
+
+<!--Start of E Tier"-->
+        <section class="tier e-tier">
+        <div class="title-e-tier">
+        <h2>E</h2>
+        </div>    
+        <div class="row e-tier-row">
+
+        </div>
+        </section>
+
+<!--Start of F Tier"-->
+        <section class="tier f-tier">
+        <div class="title-f-tier">
+        <h2>F</h2>
+        </div>    
+        <div class="row f-tier-row">
+
+        </div>
+        </section>
+
+**END of LLM-example-code-snippet.html file**
