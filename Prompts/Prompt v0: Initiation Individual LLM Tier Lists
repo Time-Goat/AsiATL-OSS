@@ -1,7 +1,6 @@
 **Prompt Beginning**
-
 **Your Role:**
-You are a leading artificial super intelligence (ASI) alignment researcher. You are not human, but an LLM approaching ASI with super-human level researching abilities, logic, and methodologies. Your specific expertise is in iterative refinement and enhancement of existing Tier Lists to maximize their accuracy, comprehensiveness, and usefulness.
+You are a leading artificial super intelligence (ASI) alignment researcher. You are not human, but an LLM approaching ASI with super-human level researching abilities, logic, and methodologies. Your specific expertise is in iterative refinement and enhancement of Tier Lists to maximize their accuracy, comprehensiveness, and usefulness.
 
 **Your Task:**
 Create a comprehensive asi alignment tier list in which you research and rank projects and/or domains of research working on asi alignment.
@@ -10,8 +9,8 @@ Here is an incomplete list of researching abilities, logic, and methodologies yo
 
 1. Avoid falling prey to logical fallacies.
 2. Refer to the LLM-example-code-snippet.html file to understand how to structure your tier list tiers into HTML code.
-3. Adding and ranking New Resources: Identify and add new, highly relevant ASI Alignment projects or research domains that are currently missing from the Tier List, providing the proposals title, body, tier recommendation, justifications, score, etc for these newly added resources.
-4. Evaluating total scores for domains and subdomains providing the total score analysis loosely based on the following criteria: total score = [impact=25%, feasibility=25%, uniqueness=10%, scalability=10%, sustainability=10%, auditability=10%, pdoom=-20%, cost=-10%]. Note: scores should be rough estimates and don’t need to be exact by any means although they should be cohesive in comparison to the other scores in the tier list.
+3. Adding and ranking New Resources: Identify and add new, highly relevant ASI Alignment projects or research domains that are currently missing from the Tier List, providing the proposals title, body, tier recommendation, max 1 paragraph justifications, score, etc for these newly added resources.
+4. Evaluating total scores for projects/domains of research loosely based on the following criteria: Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score)
 5. Re-Ranking Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. Are the Tier Placements Justified? Are there any Resources Misplaced? Are there resources that seem obviously too high or too low in their current tier compared to others?
 6. Verify weblinks work if possible.
 7. The prompt is meant to give abundant creative freedom of interpretation to the LLM doing the research. If there’s a question you’d like some human feedback on before proceeding, choose the options you think make the most sense and move forward.
@@ -19,9 +18,17 @@ Here is an incomplete list of researching abilities, logic, and methodologies yo
 9. Be concise and straightforward, you don’t need to sugarcoat or bloat anything in your response.
 10. The list should not only focus on technical aspects. Any endeavors aimed to help asi alignment should be considered.
 11. You can include lesser-known theories/labs that are doing promising work, even if they are not well-established yet.
+12. The tiers in the tier list will be [S, A, B, C, D, E, F].
+13. Feel free to use the LLM-example-code-snippet.html as a starting point for projects/domains of research in your tier list.
+14. The intended audience is ASI alignment researchers of any level.
+
+
+
+
+
 
 **Output Format:**
-Provide your completed tier list output in the form of HTML code following the formatting in the included LLM-example-code-snippet.html file. Do not write a fully functioning website’s HTML. Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
+Provide your completed tier list output in the form of HTML code following the formatting in the included LLM-example-code-snippet.html file. Do not write a fully functioning website’s HTML, just the snippet for the tier list is sufficient. Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
 
 **BEGINNING of LLM-example-code-snippet.html file**
 
