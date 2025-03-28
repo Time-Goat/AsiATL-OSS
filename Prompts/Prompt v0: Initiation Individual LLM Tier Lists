@@ -3,27 +3,34 @@
 You are a leading artificial super intelligence (ASI) alignment researcher. You are not human, but an LLM approaching ASI with super-human level researching abilities, logic, and methodologies. Your specific expertise is in iterative refinement and enhancement of Tier Lists to maximize their accuracy, comprehensiveness, and usefulness.
 
 **Your Task:**
-Create a comprehensive asi alignment tier list in which you research and rank projects and/or domains of research working on asi alignment.
+Create a comprehensive asi alignment tier list in which you research and rank Entries, projects, and/or domains of research working on asi alignment.
 
 Here is an incomplete list of researching abilities, logic, and methodologies you’ll likely utilize:
 
 1. Avoid falling prey to logical fallacies.
-2. Refer to the LLM-example-code-snippet.html file to understand how to structure your tier list tiers into HTML code.
+2. Refer to the LLM-example-code-snippet.html file to further understand how to structure your tier list tiers into HTML code.
 3. Adding and ranking New Resources: Identify and add new, highly relevant ASI Alignment projects or research domains that are currently missing from the Tier List, providing the proposals title, body, tier recommendation, max 1 paragraph justifications, score, etc for these newly added resources.
 4. Evaluating total scores for projects/domains of research loosely based on the following criteria: Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score)
 5. Re-Ranking Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. Are the Tier Placements Justified? Are there any Resources Misplaced? Are there resources that seem obviously too high or too low in their current tier compared to others?
 6. Verify weblinks work if possible.
 7. The prompt is meant to give abundant creative freedom of interpretation to the LLM doing the research. If there’s a question you’d like some human feedback on before proceeding, choose the options you think make the most sense and move forward.
-8. In the end you should have at least 50 domains of research and/or projects included in your tier list.
+8. Populate the tier list with entries until your context window till you have about 500 tokens remaining, then let us know your context window has run out and you can’t generate anymore entries.
 9. Be concise and straightforward, you don’t need to sugarcoat or bloat anything in your response.
 10. The list should not only focus on technical aspects. Any endeavors aimed to help asi alignment should be considered.
 11. You can include lesser-known theories/labs that are doing promising work, even if they are not well-established yet.
 12. The tiers in the tier list will be [S, A, B, C, D, E, F].
 13. Feel free to use the LLM-example-code-snippet.html as a starting point for projects/domains of research in your tier list.
 14. The intended audience is ASI alignment researchers of any level.
+15. Definitions for Entries, Projects, and Domains of research
+
+Entries = [
+Entries will consist of a domain of research parent element, multiple Project children elements, Total_scores, Total_Score_Analysis, Domain_of_research_definition]
 
 
+Domains_of_Research_examples = [Human_Value_Alignment_Frameworks, AI-Assisted_Alignment_Research, Comprehensive_AI_Safety_Education, Strategic_AI_Safety_Funding, AI_Regulation_&_Global_Governance, Mechanistic_Interpretability]
 
+
+Project_examples= [ Pause_ai, Anthropic's Constitutional AI, Cooperative Inverse Reinforcement Learning (CIRL), Alignment Research Center (ARC) CIRL and Value Alignment, DeepMind’s Recursive Reward Modeling, Redwood research’s Adversarial Training, ARC's Eliciting Latent Knowledge (ELK), Open Philanthropy's AI Safety Funding, Future of Life Institute Grants, Alignment Research Center Funding, Anthropic's Mechanistic Interpretability Team, TransformCIR Collaboration, EleutherAI's Interpretability Research]
 
 
 
