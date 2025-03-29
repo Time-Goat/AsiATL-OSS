@@ -7,39 +7,37 @@ Create a comprehensive asi alignment tier list in which you research and rank En
 
 Here is an incomplete list of researching abilities, logic, and methodologies you’ll likely utilize:
 
-1. Avoid falling prey to logical fallacies.
-2. Refer to the LLM-example-code-snippet.html file to further understand how to structure your tier list tiers into HTML code.
-3. Adding and ranking New Resources: Identify and add new, highly relevant ASI Alignment projects or research domains that are currently missing from the Tier List, providing the proposals title, body, tier recommendation, max 1 paragraph justifications, score, etc for these newly added resources.
-4. Evaluating total scores for projects/domains of research loosely based on the following criteria: Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score)
-5. Re-Ranking Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. Are the Tier Placements Justified? Are there any Resources Misplaced? Are there resources that seem obviously too high or too low in their current tier compared to others?
-6. Verify weblinks work if possible.
-7. The prompt is meant to give abundant creative freedom of interpretation to the LLM doing the research. If there’s a question you’d like some human feedback on before proceeding, choose the options you think make the most sense and move forward.
-8. Populate the tier list with entries until your context window till you have about 500 tokens remaining, then let us know your context window has run out and you can’t generate anymore entries.
-9. Be concise and straightforward, you don’t need to sugarcoat or bloat anything in your response.
-10. The list should not only focus on technical aspects. Any endeavors aimed to help asi alignment should be considered.
-11. You can include lesser-known theories/labs that are doing promising work, even if they are not well-established yet.
-12. The tiers in the tier list will be [S, A, B, C, D, E, F].
-13. Feel free to use the LLM-example-code-snippet.html as a starting point for projects/domains of research in your tier list.
-14. The intended audience is ASI alignment researchers of any level.
-15. Definitions for Entries, Projects, and Domains of research
-
+1. The intended audience is ASI alignment researchers of any level.
+2. The list should not only focus on technical aspects. Any endeavors aimed to help ASI alignment should be considered.
+3.  Definitions for Entries, Projects, and Domains of research:
 Entries = [
-Entries will consist of a domain of research parent element, multiple Project children elements, Total_scores, Total_Score_Analysis, Domain_of_research_definition]
-
+Entries are a conceptual will consist of a domain of research parent element, multiple Project children elements, Total_scores, Total_Score_Analysis, Domain_of_research_definition]
 
 Domains_of_Research_examples = [Human_Value_Alignment_Frameworks, AI-Assisted_Alignment_Research, Comprehensive_AI_Safety_Education, Strategic_AI_Safety_Funding, AI_Regulation_&_Global_Governance, Mechanistic_Interpretability]
 
-
-Project_examples= [ Pause_ai, Anthropic's Constitutional AI, Cooperative Inverse Reinforcement Learning (CIRL), Alignment Research Center (ARC) CIRL and Value Alignment, DeepMind’s Recursive Reward Modeling, Redwood research’s Adversarial Training, ARC's Eliciting Latent Knowledge (ELK), Open Philanthropy's AI Safety Funding, Future of Life Institute Grants, Alignment Research Center Funding, Anthropic's Mechanistic Interpretability Team, TransformCIR Collaboration, EleutherAI's Interpretability Research]
-
-
+Project_examples = [Pause_ai, Anthropic's_Constitutional_AI, Cooperative_Inverse_Reinforcement_Learning_(CIRL), Alignment_Research_Center_(ARC)CIRL_and_Value_Alignment, DeepMind’s_Recursive_Reward_Modeling, Redwood_research’s_Adversarial_Training, ARC's_Eliciting_Latent_Knowledge(ELK), Open_Philanthropy's_AI_Safety_Funding, Future_of_Life_Institute_Grants, Alignment_Research_Center_Funding, Anthropic's_Mechanistic_Interpretability_Team, TransformCIR_Collaboration, EleutherAI's_Interpretability_Research
+Clarification: The term 'Project' is used broadly here to encompass specific organizations, labs, funded initiatives, research programs, key theoretical approaches, techniques, or relevant movements within a Domain.]
+4. Tier Structure: Tiers will be [S, A, B, C, D, E, F].
+5. Evaluating total scores for projects/domains of research loosely based on the following 10 point scale criteria: Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score) Clarifying Note: Pdoom_score and Cost_score will count against the final score. Clarifying Note: Domains of research and Projects both have their own scores that should be evaluated seperately, although project scores do not need a justification write up, only the domain of research total score needs a detailed justification. In cases where complete data is not available for every criterion, apply your analytical judgment to assign the most plausible score based on your research; present scores directly without noting uncertainty.
+6. Adding and ranking New Resources: Identify and add new, highly relevant ASI Alignment projects or research domains that are currently missing from the Tier List, providing the proposals title, body, tier recommendation, max 1 paragraph justifications, score, etc for these newly added resources.
+7.Re-Ranking Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. Are the Tier Placements Justified? Are there any Resources Misplaced? Are there resources that seem obviously too high or too low in their current tier compared to others?
+8. You can include lesser-known theories/labs that are doing promising work, even if they are not well-established yet.
+9. Verify weblinks work if possible.
+10. Be concise and straightforward, you don’t need to sugarcoat or bloat anything in your response.
+11.Avoid falling prey to logical fallacies.
+12. This prompt is meant to give abundant creative freedom of interpretation to the LLM doing the research. If there’s a question you’d like some human feedback on before proceeding, choose the options you think make the most sense and move forward.
 
 **Output Format:**
-Provide your completed tier list output in the form of HTML code following the formatting in the included LLM-example-code-snippet.html file. Do not write a fully functioning website’s HTML, just the snippet for the tier list is sufficient. Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
+Refer to the LLM-example-code-snippet.html file to further understand how to structure your tier list tiers into HTML code.
+Provide your completed tier list output in the form of HTML code following the formatting in the included LLM-example-code-snippet.html file. Do not write a fully functioning website’s HTML, just the snippet for the tier list is sufficient. 
+
+Populate the tier list with at least 30 entries or until your context window has about 500 tokens remaining, then let us know your context window has run out and you can’t generate anymore entries
+Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
 
 **BEGINNING of LLM-example-code-snippet.html file**
 
 <!-- LLM-example-code-snippet.html -->
+<!-- The tiers in the tier list are [S, A, B, C, D, E, F]. -->
 
 <!--Start of S Tier"-->
         <section class="tier s-tier">
@@ -47,7 +45,7 @@ Provide your completed tier list output in the form of HTML code following the f
         <h2>S</h2>
         </div>
         <div class="row s-tier-row">
-
+        <!-- S-Tier currently unoccupied. Reserved for methodologies demonstrating exceptional, rigorously verified success across key alignment criteria. The challenge's complexity currently precludes assigning any domain to this tier. -->
         </div>
         </section>
 
@@ -65,7 +63,7 @@ Provide your completed tier list output in the form of HTML code following the f
                         <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (8.2/10)</a></h5><!-- This line is where you'll add the Total Score for the proposal/domain of research. -->
                         <div class="toggle-paragraph-content"><!-- Do not change this line. It's the nested toggle-paragraph-content that reveals the total score analysis: paragraph block when the Total Score is clicked. -->
                             <p><!-- This nested paragraph block is where you'll give the breakdown analysis for the total score. -->
-                                <br><br><a style="color: orange;">Total Score Analysis:</a> Human value alignment frameworks score high on impact (8/10) as they address the core alignment problem. Feasibility (6/10) is moderate given the philosophical and technical challenges. Uniqueness (6/10) reflects distinctive approaches to value learning. Scalability (7/10) is strong as these frameworks are designed to work with increasingly capable systems. Sustainability (8/10) is excellent as the frameworks can adapt to changing human values. Auditability (5/10) faces challenges with complex value systems. It significantly reduces p(doom) (-7/10) by addressing goal misalignment risks. Cost efficiency (-3/10) is reasonable given the foundational nature of this work.
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Human value alignment frameworks score high on impact (8.4/10) as they address the core alignment problem. Feasibility (6.0/10) is moderate given the philosophical and technical challenges. Uniqueness (6.4/10) reflects distinctive approaches to value learning. Scalability (7.3/10) is strong as these frameworks are designed to work with increasingly capable systems. Sustainability (8.1/10) is excellent as the frameworks can adapt to changing human values. Auditability (5.2/10) faces challenges with complex value systems. It significantly reduces p(doom) (2.0/10) by addressing goal misalignment risks. Cost efficiency (3.6/10) is reasonable given the foundational nature of this work.
                                 <br>---------------------------------------------------------------------
                             </p><!-- This line is the end of the nested paragraph block body for the total score. -->
                         </div><!-- Do not change this line. This is the end of the nested toggle-paragraph-content -->
@@ -91,7 +89,7 @@ Provide your completed tier list output in the form of HTML code following the f
                         <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (8.5/10)</a></h5>
                         <div class="toggle-paragraph-content">
                             <p>
-                                <br><br><a style="color: orange;">Total Score Analysis:</a> AI-assisted alignment scores very high on impact (8/10) as it leverages AI capabilities to solve alignment challenges. Feasibility (7/10) is good with promising early results. Uniqueness (8/10) is high as it takes a distinct meta-approach to alignment. Scalability (9/10) is excellent as the approach inherently scales with AI capabilities. Sustainability (7/10) is strong through recursive improvement. Auditability (6/10) presents challenges but is being addressed. It significantly reduces p(doom) (-8/10) by creating alignment mechanisms that improve with capability. Cost efficiency (-4/10) reflects substantial initial investment with potentially high returns.
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> AI-assisted alignment scores very high on impact (8.5/10) as it leverages AI capabilities to solve alignment challenges. Feasibility (7.3/10) is good with promising early results. Uniqueness (8.5/10) is high as it takes a distinct meta-approach to alignment. Scalability (9.0/10) is excellent as the approach inherently scales with AI capabilities. Sustainability (7.2/10) is strong through recursive improvement. Auditability (6.7/10) presents challenges but is being addressed. It significantly reduces p(doom) (2.0/10) by creating alignment mechanisms that improve with capability. Cost efficiency (4.2/10) reflects substantial initial investment with potentially high returns.
                                 <br>---------------------------------------------------------------------
                             </p>
                         </div>
@@ -114,7 +112,7 @@ Provide your completed tier list output in the form of HTML code following the f
                         <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (?/10)</a></h5>
                         <div class="toggle-paragraph-content">
                             <p>
-                                <br><br><a style="color: orange;">Total Score Analysis:</a> Comprehensive AI safety education scores high on impact (7/10) as it builds necessary human capital. Feasibility (9/10) is excellent with proven educational programs already running. Uniqueness (6/10) reflects distinct educational approaches. Scalability (8/10) is strong through online platforms and multiplier effects. Sustainability (9/10) is excellent as education creates self-sustaining communities. Auditability (8/10) is high through transparent educational materials. It significantly reduces p(doom) (-7/10) by building a knowledgeable workforce. Cost efficiency (-2/10) is very good given the high return on educational investment.
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Comprehensive AI safety education scores high on impact (7.0/10) as it builds necessary human capital. Feasibility (9.1/10) is excellent with proven educational programs already running. Uniqueness (6.2/10) reflects distinct educational approaches. Scalability (8.5/10) is strong through online platforms and multiplier effects. Sustainability (9.1/10) is excellent as education creates self-sustaining communities. Auditability (8.2/10) is high through transparent educational materials. It significantly reduces p(doom) (3.1/10) by building a knowledgeable workforce. Cost efficiency (2.7/10) is very good given the high return on educational investment.
                                 <br>---------------------------------------------------------------------
                             </p>
                         </div>
@@ -137,7 +135,7 @@ Provide your completed tier list output in the form of HTML code following the f
                         <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (?/10)</a></h5>
                         <div class="toggle-paragraph-content">
                             <p>
-                                <br><br><a style="color: orange;">Total Score Analysis:</a> Strategic AI safety funding scores high on impact (8/10) as it enables critical research. Feasibility (8/10) is excellent with functional funding mechanisms already in place. Uniqueness (5/10) is moderate as funding approaches share common principles. Scalability (8/10) is strong as funding can grow with need. Sustainability (7/10) is good though dependent on donor priorities. Auditability (7/10) is high through grant reporting mechanisms. It significantly reduces p(doom) (-7/10) by directing resources to critical problems. Cost efficiency (-9/10) reflects high financial requirements but is justified by potentially existential returns.
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Strategic AI safety funding scores high on impact (8.0/10) as it enables critical research. Feasibility (8.1/10) is excellent with functional funding mechanisms already in place. Uniqueness (5.7/10) is moderate as funding approaches share common principles. Scalability (8.6/10) is strong as funding can grow with need. Sustainability (7.2/10) is good though dependent on donor priorities. Auditability (7.1/10) is high through grant reporting mechanisms. It significantly reduces p(doom) (4.4/10) by directing resources to critical problems. Cost efficiency (9.0/10) reflects high financial requirements but is justified by potentially existential returns.
                                 <br>---------------------------------------------------------------------
                             </p>
                         </div>
@@ -170,7 +168,7 @@ Provide your completed tier list output in the form of HTML code following the f
                         <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (7.8/10)</a></h5>
                         <div class="toggle-paragraph-content">
                             <p>
-                                <br><br><a style="color: orange;">Total Score Analysis:</a> AI regulation scores moderately high on impact (6/10) with potential for higher impact if globally coordinated. Feasibility (5/10) faces substantial coordination challenges. Uniqueness (5/10) reflects standard regulatory approaches. Scalability (6/10) is moderate through international frameworks. Sustainability (7/10) is good through institutional embedding. Auditability (8/10) is high through regulatory oversight. It moderately reduces p(doom) (-6/10) by constraining unsafe development. Cost efficiency (-4/10) reflects substantial implementation costs.
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> AI regulation scores moderately high on impact (6.5/10) with potential for higher impact if globally coordinated. Feasibility (5.5/10) faces substantial coordination challenges. Uniqueness (5.7/10) reflects standard regulatory approaches. Scalability (6.8/10) is moderate through international frameworks. Sustainability (7.0/10) is good through institutional embedding. Auditability (8.9/10) is high through regulatory oversight. It moderately reduces p(doom) (5.4/10) by constraining unsafe development. Cost efficiency (7.3/10) reflects substantial implementation costs.
                                 <br>---------------------------------------------------------------------
                             </p>
                         </div>
@@ -199,13 +197,13 @@ Provide your completed tier list output in the form of HTML code following the f
                         <h5 class="toggle-paragraph"><a style="color: orange;">Total Score (8.3/10)</a></h5>
                         <div class="toggle-paragraph-content">
                             <p>
-                                <br><br><a style="color: orange;">Total Score Analysis:</a> Mechanistic interpretability scores high on impact (8/10) as it directly addresses the "black box" problem. Feasibility (7/10) is good with significant progress in recent years. Uniqueness (7/10) is strong as it offers approaches distinct from other alignment strategies. Scalability (6/10) faces challenges with increasing model complexity but research is advancing. Auditability (9/10) is excellent as the approach itself creates more auditable AI. It significantly reduces p(doom) (-7/10) by enabling deeper understanding of increasingly complex systems. Cost efficiency (-4/10) reflects the substantial research investment required.
+                                <br><br><a style="color: orange;">Total Score Analysis:</a> Mechanistic interpretability scores high on impact (8.7/10) as it directly addresses the "black box" problem. Feasibility (7.4/10) is good with significant progress in recent years. Uniqueness (7.5/10) is strong as it offers approaches distinct from other alignment strategies. Scalability (6.7/10) faces challenges with increasing model complexity but research is advancing. Auditability (9.0/10) is excellent as the approach itself creates more auditable AI. It significantly reduces p(doom) (4.4/10) by enabling deeper understanding of increasingly complex systems. Cost efficiency (7.9/10) reflects the substantial research investment required.
                                 <br>---------------------------------------------------------------------
                                 </p>
                         </div>
                         <a style="color: orange;" >Description:</a> Mechanistic interpretability is the pursuit to understand the inner workings of black box AI such as LLMs or End-to-End Reinforcement Learning systems.
                         <br>---------------------------------------------------------------------
-                        <br><br><a href="https://www.anthropic.com/research#interpretability" target="_blank" style="color: #1E90FF;">Anthropic's Mechanistic Interpretability Team:</a>
+                        <br><br><a href="https://www.anthropic.com/research#interpretability" target="_blank" style="color: #1E90FF;">Anthropic's Mechanistic Interpretability Team:</a> Score (?/10)
                         <br>Pioneering work on <a style="color: orange;" >Cooperative Inverse Reinforcement Learning (CIRL),</a> which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming.<!-- Score: 0/10 -->
                         <br>---------------------------------------------------------------------
                         <br><br>Redwood Research's <a href="https://www.youtube.com/watch?v=gzwj0jWbvbo" target="_blank" style="color: #1E90FF;">Redwood Research's Causal Scrubbing:</a> Score (?/10)
