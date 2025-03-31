@@ -7,3 +7,5 @@
 - Recommendation Atomicity: Should each of the 5 recommendations be treated as entirely atomic? For instance, if re-ranking Domain 'X' significantly upwards (Recommendation 1) inherently implies Domain 'Y' is now potentially over-ranked in its current tier, should the potential re-ranking of 'Y' be included within Recommendation 1's explanation/scope, or should it be proposed as a separate Recommendation (e.g., #2 or #3) if it meets the priority criteria independently?
 
 - make use of the identifiers such as <h3> in the prompt for clarity. this can replace or add to definitions such as entries, projetcs, etc.
+
+- might be able to remove the word entry from the prompt comepletely.
