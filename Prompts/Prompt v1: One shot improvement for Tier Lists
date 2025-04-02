@@ -22,14 +22,20 @@ Clarifying note: round each score down to the nearest hundredth.
 
 3. Re-Ranking Existing Resources: propose to move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. If you propose to move a resource, also update the total score analysis and total score. Ask yourself: Are there resources that seem obviously too high or too low in their current tier compared to others? Are the Tier Placements Justified? Are there any Resources Misplaced?
 
-4. Verifying weblinks work if possible.
+4. Merging or deleting entries and/or projects to reduce redundancy.
 
-5. Task Priority:
-Adding missing crucial Domains and/or Projects (most important task).
-Correcting major mis-rankings (e.g., entries clearly 2+ tiers off).
-Significant revisions to scores/analysis that materially affect tier placement or understanding of a Domain/project.
-Proposing important but less drastic re-rankings (e.g., moving between adjacent tiers based on new analysis).
-Minor score adjustments or adding illustrative Projects to existing domains (less priority if other major changes are needed).
+5. Verifying weblinks work if possible.
+
+6. Carefully deleting wasteful comments, or unnecessary content characters that don’t add value to the tier list. Making sure to not disrupt the html entries structure itself. It’s valuable to keep the tier list as small as reasonable while not losing quality. It’s more important to have a slightly larger tier list and make it a bit longer than it would be to questionably cut important things to make it smaller.
+
+7. Task Priority:
+a. Adding missing crucial Domains and/or Projects (most important task).
+b. Merging or deleting entries and/or projects to reduce redundancy.
+c. Carefully deleting wasteful comments, or unnecessary content characters that don’t add value to the tier list.
+d. Correcting major mis-rankings (e.g., entries clearly 2+ tiers off).
+e. Significant revisions to scores/analysis that materially affect tier placement or understanding of a Domain/project.
+f. Proposing important but less drastic re-rankings (e.g., moving between adjacent tiers based on new analysis).
+g. Minor score adjustments or adding illustrative Projects to existing domains (less priority if other major changes are needed).
 
 **Additional Context:**
 
@@ -70,11 +76,13 @@ Clarifying Note: Aim for at least 3 representative Project examples where possib
 
 8. Take as much time as you need, there is no rush.
 
+9. Total Score Analysis should be concise and not exceed 1500 characters. 
+
 
 **Output Format:**
 
 Your final output should be a complete tier list in HTML containing the improvements you’d like to make to the tier list content following the same formatting conventions in the existing tier list. The old versions of entries, projects, descriptions, scores, etc. do not need to be preserved and it’s completely fine if they’re deleted.
-+1 increment the version in comments at the top of the tier list.
++1.0 increment the version in comments at the top of the tier list.
 Overwrite the old key changes comment and add a comment at the bottom of the tier list of a summary of the new key changes.
 
 
