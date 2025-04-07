@@ -1,8 +1,10 @@
+
+
 **S Tier**
 
 
+Tier Description: S-Tier (9.00+/10): Reserved for methodologies demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
 (Empty in source)
-S-Tier (9.00+/10): Reserved for methodologies demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
 
 
 **A Tier**
@@ -93,15 +95,15 @@ Total Score Analysis: AI regulation scores moderately high on impact (6.5/10) wi
 Domain Description: Development of policy, legal, regulatory, and international frameworks to ensure safe and beneficial AI development and deployment.
 -----------------------------------
 Project Name: Ai Governance Map: Score (?/10)
-Descriptoin: Interactive map of the ai governance space. with clickable links to various projects working within the ai governance space.
+Description: Interactive map of the ai governance space. with clickable links to various projects working within the ai governance space.
 -----------------------------------
 Project Name: Pause AI Movement: Score (?/10)
 Description: The Pause AI movement is attempting to buy more time to work on Asi Alignment. More time is extremely valuable, considering we probably only have until 2026 or 2027 before we have Rogue AGI (which will be a bit closer to ASI than AGI if you strip away all the goal post moving on the definition of AGI).
 Although in a perfect world it would be ideal to Pause AI until we can do more work in AI safety and alignment, in reality it will be difficult (but not impossible) to enforce into reality.
 The Game Theoretical principles like Moloch, along with the fact that very few people even understand that AGI can kill all humans, The Pause AI movement difficult, but still worth pursuing, imo.
 -----------------------------------
-Project Name: GovAI / CSET / FRI Research on Compute Governance: Score (?/10)
-Description: Leading think tanks analyzing feasibility/challenges/frameworks. Shaping policy discourse/options. Foundational analysis.
+Project Name: GovAI: Score (?/10)
+Description: Leading think tanks analyzing feasibility/challenges/frameworks. Shaping policy discourse/options. Foundational analysis. Research on Compute Governance.
 -----------------------------------
 }
 
@@ -147,14 +149,27 @@ Description: Independent research exploring alternative approaches/frameworks.
 -----------------------------------
 }
 
+
 **C Tier**
+
+
 (Empty in source)
+
 
 **D Tier**
+
+
 (Empty in source)
+
 
 **E Tier**
+
+
 (Empty in source)
 
+
 **F Tier**
+
+
 (Empty in source)
+
