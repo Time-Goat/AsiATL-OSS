@@ -1,4 +1,5 @@
 **S Tier**
+(Empty in source)
 S-Tier (9.00+/10): Reserved for methodologies demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
 
 **A Tier**
@@ -116,7 +117,7 @@ Although in a perfect world it would be ideal to Pause AI until we can do more w
 The Game Theoretical principles like Moloch, along with the fact that very few people even understand that AGI can kill all humans, The Pause AI movement difficult, but still worth pursuing, imo.
 -----------------------------------
 
-Project Name: GovAI / CSET / FRI Research on Compute Governance:: Score (?/10)
+Project Name: GovAI / CSET / FRI Research on Compute Governance: Score (?/10)
 Description: Leading think tanks analyzing feasibility/challenges/frameworks. Shaping policy discourse/options. Foundational analysis.
 -----------------------------------
 }
