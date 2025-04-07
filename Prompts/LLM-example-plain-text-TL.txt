@@ -13,19 +13,19 @@ Domain Description: Create robust, scalable frameworks to encode human values in
 -----------------------------------
 
 Project Name: Stuart Russell's Center for Human-Compatible AI (CHAI): Score (?/10)
-Description:Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming. This approach addresses fundamental value alignment issues by making AI systems uncertain about human preferences and motivated to learn them accurately.
+Description: Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming. This approach addresses fundamental value alignment issues by making AI systems uncertain about human preferences and motivated to learn them accurately.
 -----------------------------------
 
 Project Name: Alignment Research Center (ARC) - CIRL and Value Alignment: Score (?/10)
-Description:ARC, founded by Paul Christiano, develops frameworks for AI systems to learn and remain aligned with human values even as they surpass human capabilities. Their research on eliciting latent knowledge and scalable oversight addresses how to maintain alignment with increasingly advanced systems.
+Description: ARC, founded by Paul Christiano, develops frameworks for AI systems to learn and remain aligned with human values even as they surpass human capabilities. Their research on eliciting latent knowledge and scalable oversight addresses how to maintain alignment with increasingly advanced systems.
 -----------------------------------
 
 Project Name: DeepMind's Ethics and Society Team's Value Alignment Research: Score (?/10)
-Description:Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
+Description: Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
 -----------------------------------
 
 Project Name: Anthropic's Constitutional AI: Score (?/10)
-Description:Innovative approach that defines AI behavior through constitutional principles rather than direct optimization objectives. This method addresses fundamental alignment challenges by creating flexible, human-aligned constraints that guide AI behavior while allowing it to reason about edge cases and conflicts between principles.
+Description: Innovative approach that defines AI behavior through constitutional principles rather than direct optimization objectives. This method addresses fundamental alignment challenges by creating flexible, human-aligned constraints that guide AI behavior while allowing it to reason about edge cases and conflicts between principles.
 -----------------------------------
 }
 
@@ -39,15 +39,15 @@ Domain Description: Using AI itself as a tool to solve the alignment problem thr
 -----------------------------------
 
 Project Name: ARC's Eliciting Latent Knowledge (ELK): Score (?/10)
-Description:Pioneering approach to using AI systems to help identify when other AI systems might be concealing information or developing deceptive behaviors. This meta-level research uses AI capabilities to address alignment challenges that would be difficult for humans to detect alone.
+Description: Pioneering approach to using AI systems to help identify when other AI systems might be concealing information or developing deceptive behaviors. This meta-level research uses AI capabilities to address alignment challenges that would be difficult for humans to detect alone.
 -----------------------------------
 
 Project Name: Redwood Research's Adversarial Training: Score (?/10)
-Description:Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways, creating a more robust evaluation process than human testing alone could achieve.
+Description: Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways, creating a more robust evaluation process than human testing alone could achieve.
 -----------------------------------
 
 Project Name: DeepMind's Recursive Reward Modeling: Score (?/10)
-Description:Developing frameworks where AI systems help define and refine their own reward functions through recursive improvement processes. This approach potentially solves scalability issues in human oversight as AI capabilities increase.
+Description: Developing frameworks where AI systems help define and refine their own reward functions through recursive improvement processes. This approach potentially solves scalability issues in human oversight as AI capabilities increase.
 -----------------------------------
 }
 
@@ -61,15 +61,15 @@ Domain Description: Systematic education and training programs on AI safety and 
 -----------------------------------
 
 Project Name: Alignment Forum: Score (?/10)
-Description:Premier discussion platform for AI alignment research, fostering collaboration and knowledge-sharing among researchers worldwide. The forum has become a central hub for developing and refining alignment theories and approaches.
+Description: Premier discussion platform for AI alignment research, fostering collaboration and knowledge-sharing among researchers worldwide. The forum has become a central hub for developing and refining alignment theories and approaches.
 -----------------------------------
 
 Project Name: aiSafety.info (Rob Miles): Score (?/10)
-Description:Accessible educational resources explaining complex AI safety concepts to broader audiences. These materials have proven effective at bringing new researchers into the field and raising awareness about alignment challenges.
+Description: Accessible educational resources explaining complex AI safety concepts to broader audiences. These materials have proven effective at bringing new researchers into the field and raising awareness about alignment challenges.
 -----------------------------------
 
 Project Name: AGI Safety Fundamentals: Score (?/10)
-Description:Structured curriculum and fellowship program teaching the foundations of AI alignment to promising researchers. This program has successfully identified and trained numerous individuals who have gone on to make significant contributions to alignment research.
+Description: Structured curriculum and fellowship program teaching the foundations of AI alignment to promising researchers. This program has successfully identified and trained numerous individuals who have gone on to make significant contributions to alignment research.
 -----------------------------------
 }
 
@@ -83,15 +83,15 @@ Domain Description: Coordinated and strategic funding allocation to maximize imp
 -----------------------------------
 
 Project Name: Open Philanthropy's AI Safety Funding: Score (?/10)
-Description:Major grantmaking organization funding a diverse portfolio of alignment research projects. Their strategic approach to identifying and supporting promising research directions has accelerated progress across multiple alignment subfields.
+Description: Major grantmaking organization funding a diverse portfolio of alignment research projects. Their strategic approach to identifying and supporting promising research directions has accelerated progress across multiple alignment subfields.
 -----------------------------------
 
 Project Name: Future of Life Institute Grants: Score (?/10)
-Description:Targeted funding program supporting innovative research on existential safety from advanced AI. Their grants have seeded numerous important research projects that might otherwise have gone unfunded.
+Description: Targeted funding program supporting innovative research on existential safety from advanced AI. Their grants have seeded numerous important research projects that might otherwise have gone unfunded.
 -----------------------------------
 
 Project Name: Alignment Research Center Funding: Score (?/10)
-Description:Focused funding for alignment research tackling core technical challenges. Their approach emphasizes high-leverage problems where additional resources can substantially accelerate progress.
+Description: Focused funding for alignment research tackling core technical challenges. Their approach emphasizes high-leverage problems where additional resources can substantially accelerate progress.
 -----------------------------------
 }
 
@@ -107,21 +107,17 @@ Domain Description: Development of policy, legal, regulatory, and international 
 -----------------------------------
 
 Project Name: Ai Governance Map: Score (?/10)
+Descriptoin: Interactive map of the ai governance space. with clickable links to various projects working within the ai governance space.
 -----------------------------------
 
 Project Name: Pause AI Movement: Score (?/10)
-Description:The Pause AI movement is attempting to buy more time to work on Asi Alignment. More time is extremely valuable, considering we probably only have until 2026 or 2027 before we have Rogue AGI (which will be a bit closer to ASI than AGI if you strip away all the goal post moving on the definition of AGI).
+Description: The Pause AI movement is attempting to buy more time to work on Asi Alignment. More time is extremely valuable, considering we probably only have until 2026 or 2027 before we have Rogue AGI (which will be a bit closer to ASI than AGI if you strip away all the goal post moving on the definition of AGI).
 Although in a perfect world it would be ideal to Pause AI until we can do more work in AI safety and alignment, in reality it will be difficult (but not impossible) to enforce into reality.
 The Game Theoretical principles like Moloch, along with the fact that very few people even understand that AGI can kill all humans, The Pause AI movement difficult, but still worth pursuing, imo.
 -----------------------------------
 
-Project Name: Sam Altman on AI Regulation: Score (?/10)
-0. Lobbying Politicians / Influencial People
-1. Blackbox Algorithmic Transparancy
-2. Data Collection & Usage
-3. Human Extinction Safety Standards
-4. Economic Impact & Universal Basic Income
-5. AI Capability restrictions
+Project Name: GovAI / CSET / FRI Research on Compute Governance:: Score (?/10)
+Description: Leading think tanks analyzing feasibility/challenges/frameworks. Shaping policy discourse/options. Foundational analysis.
 -----------------------------------
 }
 
@@ -135,15 +131,15 @@ Domain Description: Mechanistic interpretability is the pursuit to understand th
 -----------------------------------
 
 Project Name: Anthropic's Mechanistic Interpretability Team: Score (?/10)
-Description:Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming.
+Description: Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming.
 -----------------------------------
 
 Project Name: Redwood Research's Redwood Research's Causal Scrubbing: Score (?/10)
-Description:Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways.
+Description: Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways.
 -----------------------------------
 
 Project Name: TransformCIR Collaboration: Score (?/10)
-Description:Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
+Description: Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
 -----------------------------------
 
 Project Name: EleutherAI's Interpretability Research: Score (?/10)
