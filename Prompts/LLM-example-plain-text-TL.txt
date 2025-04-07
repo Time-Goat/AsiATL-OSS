@@ -1,0 +1,168 @@
+**S Tier**
+S-Tier (9.00+/10): Reserved for methodologies demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
+
+**A Tier**
+
+Domain of Research: Human Value Alignment Frameworks{
+Total Score (8.2/10)
+
+Total Score Analysis: Human value alignment frameworks score high on impact (8.4/10) as they address the core alignment problem. Feasibility (6.0/10) is moderate given the philosophical and technical challenges. Uniqueness (6.4/10) reflects distinctive approaches to value learning. Scalability (7.3/10) is strong as these frameworks are designed to work with increasingly capable systems. Sustainability (8.1/10) is excellent as the frameworks can adapt to changing human values. Auditability (5.2/10) faces challenges with complex value systems. It significantly reduces p(doom) (2.0/10) by addressing goal misalignment risks. Cost efficiency (3.6/10) is reasonable given the foundational nature of this work.
+-----------------------------------
+
+Domain Description: Create robust, scalable frameworks to encode human values into ASI.
+-----------------------------------
+
+Project Name: Stuart Russell's Center for Human-Compatible AI (CHAI): Score (?/10)
+Description:Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming. This approach addresses fundamental value alignment issues by making AI systems uncertain about human preferences and motivated to learn them accurately.
+-----------------------------------
+
+Project Name: Alignment Research Center (ARC) - CIRL and Value Alignment: Score (?/10)
+Description:ARC, founded by Paul Christiano, develops frameworks for AI systems to learn and remain aligned with human values even as they surpass human capabilities. Their research on eliciting latent knowledge and scalable oversight addresses how to maintain alignment with increasingly advanced systems.
+-----------------------------------
+
+Project Name: DeepMind's Ethics and Society Team's Value Alignment Research: Score (?/10)
+Description:Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
+-----------------------------------
+
+Project Name: Anthropic's Constitutional AI: Score (?/10)
+Description:Innovative approach that defines AI behavior through constitutional principles rather than direct optimization objectives. This method addresses fundamental alignment challenges by creating flexible, human-aligned constraints that guide AI behavior while allowing it to reason about edge cases and conflicts between principles.
+-----------------------------------
+}
+
+Domain of Research: AI-Assisted Alignment Research{
+Total Score (8.5/10)
+
+Total Score Analysis: AI-assisted alignment scores very high on impact (8.5/10) as it leverages AI capabilities to solve alignment challenges. Feasibility (7.3/10) is good with promising early results. Uniqueness (8.5/10) is high as it takes a distinct meta-approach to alignment. Scalability (9.0/10) is excellent as the approach inherently scales with AI capabilities. Sustainability (7.2/10) is strong through recursive improvement. Auditability (6.7/10) presents challenges but is being addressed. It significantly reduces p(doom) (2.0/10) by creating alignment mechanisms that improve with capability. Cost efficiency (4.2/10) reflects substantial initial investment with potentially high returns.
+-----------------------------------
+
+Domain Description: Using AI itself as a tool to solve the alignment problem through recursive improvement.
+-----------------------------------
+
+Project Name: ARC's Eliciting Latent Knowledge (ELK): Score (?/10)
+Description:Pioneering approach to using AI systems to help identify when other AI systems might be concealing information or developing deceptive behaviors. This meta-level research uses AI capabilities to address alignment challenges that would be difficult for humans to detect alone.
+-----------------------------------
+
+Project Name: Redwood Research's Adversarial Training: Score (?/10)
+Description:Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways, creating a more robust evaluation process than human testing alone could achieve.
+-----------------------------------
+
+Project Name: DeepMind's Recursive Reward Modeling: Score (?/10)
+Description:Developing frameworks where AI systems help define and refine their own reward functions through recursive improvement processes. This approach potentially solves scalability issues in human oversight as AI capabilities increase.
+-----------------------------------
+}
+
+Domain of Research: Comprehensive AI Safety Education{
+Total Score (?/10)
+
+Total Score Analysis: Comprehensive AI safety education scores high on impact (7.0/10) as it builds necessary human capital. Feasibility (9.1/10) is excellent with proven educational programs already running. Uniqueness (6.2/10) reflects distinct educational approaches. Scalability (8.5/10) is strong through online platforms and multiplier effects. Sustainability (9.1/10) is excellent as education creates self-sustaining communities. Auditability (8.2/10) is high through transparent educational materials. It significantly reduces p(doom) (3.1/10) by building a knowledgeable workforce. Cost efficiency (2.7/10) is very good given the high return on educational investment.
+-----------------------------------
+
+Domain Description: Systematic education and training programs on AI safety and alignment for researchers, developers, and decision-makers.
+-----------------------------------
+
+Project Name: Alignment Forum: Score (?/10)
+Description:Premier discussion platform for AI alignment research, fostering collaboration and knowledge-sharing among researchers worldwide. The forum has become a central hub for developing and refining alignment theories and approaches.
+-----------------------------------
+
+Project Name: aiSafety.info (Rob Miles): Score (?/10)
+Description:Accessible educational resources explaining complex AI safety concepts to broader audiences. These materials have proven effective at bringing new researchers into the field and raising awareness about alignment challenges.
+-----------------------------------
+
+Project Name: AGI Safety Fundamentals: Score (?/10)
+Description:Structured curriculum and fellowship program teaching the foundations of AI alignment to promising researchers. This program has successfully identified and trained numerous individuals who have gone on to make significant contributions to alignment research.
+-----------------------------------
+}
+
+Domain of Research: Strategic AI Safety Funding{
+Total Score (?/10)
+
+Total Score Analysis: Strategic AI safety funding scores high on impact (8.0/10) as it enables critical research. Feasibility (8.1/10) is excellent with functional funding mechanisms already in place. Uniqueness (5.7/10) is moderate as funding approaches share common principles. Scalability (8.6/10) is strong as funding can grow with need. Sustainability (7.2/10) is good though dependent on donor priorities. Auditability (7.1/10) is high through grant reporting mechanisms. It significantly reduces p(doom) (4.4/10) by directing resources to critical problems. Cost efficiency (9.0/10) reflects high financial requirements but is justified by potentially existential returns.
+-----------------------------------
+
+Domain Description: Coordinated and strategic funding allocation to maximize impact on crucial alignment research areas.
+-----------------------------------
+
+Project Name: Open Philanthropy's AI Safety Funding: Score (?/10)
+Description:Major grantmaking organization funding a diverse portfolio of alignment research projects. Their strategic approach to identifying and supporting promising research directions has accelerated progress across multiple alignment subfields.
+-----------------------------------
+
+Project Name: Future of Life Institute Grants: Score (?/10)
+Description:Targeted funding program supporting innovative research on existential safety from advanced AI. Their grants have seeded numerous important research projects that might otherwise have gone unfunded.
+-----------------------------------
+
+Project Name: Alignment Research Center Funding: Score (?/10)
+Description:Focused funding for alignment research tackling core technical challenges. Their approach emphasizes high-leverage problems where additional resources can substantially accelerate progress.
+-----------------------------------
+}
+
+**B Tier**
+
+Domain of Research: AI Regulation & Global Governance{
+Total Score (7.8/10)
+
+Total Score Analysis: AI regulation scores moderately high on impact (6.5/10) with potential for higher impact if globally coordinated. Feasibility (5.5/10) faces substantial coordination challenges. Uniqueness (5.7/10) reflects standard regulatory approaches. Scalability (6.8/10) is moderate through international frameworks. Sustainability (7.0/10) is good through institutional embedding. Auditability (8.9/10) is high through regulatory oversight. It moderately reduces p(doom) (5.4/10) by constraining unsafe development. Cost efficiency (7.3/10) reflects substantial implementation costs.
+-----------------------------------
+
+Domain Description: Development of policy, legal, regulatory, and international frameworks to ensure safe and beneficial AI development and deployment.
+-----------------------------------
+
+Project Name: Ai Governance Map: Score (?/10)
+-----------------------------------
+
+Project Name: Pause AI Movement: Score (?/10)
+Description:The Pause AI movement is attempting to buy more time to work on Asi Alignment. More time is extremely valuable, considering we probably only have until 2026 or 2027 before we have Rogue AGI (which will be a bit closer to ASI than AGI if you strip away all the goal post moving on the definition of AGI).
+Although in a perfect world it would be ideal to Pause AI until we can do more work in AI safety and alignment, in reality it will be difficult (but not impossible) to enforce into reality.
+The Game Theoretical principles like Moloch, along with the fact that very few people even understand that AGI can kill all humans, The Pause AI movement difficult, but still worth pursuing, imo.
+-----------------------------------
+
+Project Name: Sam Altman on AI Regulation: Score (?/10)
+0. Lobbying Politicians / Influencial People
+1. Blackbox Algorithmic Transparancy
+2. Data Collection & Usage
+3. Human Extinction Safety Standards
+4. Economic Impact & Universal Basic Income
+5. AI Capability restrictions
+-----------------------------------
+}
+
+Domain of Research: Mechanistic Interpretability{
+Total Score (8.3/10)
+
+Total Score Analysis: Mechanistic interpretability scores high on impact (8.7/10) as it directly addresses the "black box" problem. Feasibility (7.4/10) is good with significant progress in recent years. Uniqueness (7.5/10) is strong as it offers approaches distinct from other alignment strategies. Scalability (6.7/10) faces challenges with increasing model complexity but research is advancing. Auditability (9.0/10) is excellent as the approach itself creates more auditable AI. It significantly reduces p(doom) (4.4/10) by enabling deeper understanding of increasingly complex systems. Cost efficiency (7.9/10) reflects the substantial research investment required.
+-----------------------------------
+
+Domain Description: Mechanistic interpretability is the pursuit to understand the inner workings of black box AI such as LLMs or End-to-End Reinforcement Learning systems.
+-----------------------------------
+
+Project Name: Anthropic's Mechanistic Interpretability Team: Score (?/10)
+Description:Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming.
+-----------------------------------
+
+Project Name: Redwood Research's Redwood Research's Causal Scrubbing: Score (?/10)
+Description:Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways.
+-----------------------------------
+
+Project Name: TransformCIR Collaboration: Score (?/10)
+Description:Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
+-----------------------------------
+
+Project Name: EleutherAI's Interpretability Research: Score (?/10)
+Description:Building autonomous AI systems specifically designed to help understand and interpret the internal workings of other AI systems, with the goal of making alignment properties more transparent and verifiable.
+-----------------------------------
+
+Project Name: NeuroSEED at MIT: Score (?/10)
+Description: Developing AI systems that can autonomously identify and resolve their own alignment failures through constitutional principles. Their approach uses AI assistants to evaluate and improve AI behavior without direct human feedback for each decision.
+-----------------------------------
+}
+
+**C Tier**
+(Empty in source)
+
+**D Tier**
+(Empty in source)
+
+**E Tier**
+(Empty in source)
+
+**F Tier**
+(Empty in source)
