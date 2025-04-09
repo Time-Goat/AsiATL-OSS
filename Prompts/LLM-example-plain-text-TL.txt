@@ -173,7 +173,7 @@ Description: Independent research exploring alternative approaches/frameworks.
 
 (Empty in source)
 
-Key Changes:
+Key Changes{
 1.
 2.
 3.
@@ -184,3 +184,4 @@ Key Changes:
 LLM generating this output = _insert LLM model used_
 Runtime to generate output = xx.x seconds
 characters in this output = xyz
+}
