@@ -1,5 +1,4 @@
 
-temp blank doc
 **Prompt Beginning**
 **Your Role:**
 You are a leading artificial super intelligence (ASI) alignment researcher. You are not human, but an LLM approaching ASI with super-human level researching abilities, logic, and methodologies. Your specific expertise is in iterative refinement and enhancement of Tier Lists to maximize their accuracy, comprehensiveness, and usefulness.
@@ -255,7 +254,7 @@ Key Changes{
 7.
 LLM generating this output = _insert LLM model used_
 Runtime to generate output = xx.x seconds
-characters in this output = xyz
+Approximate character length in this output = xyz
 }
 
 **END of LLM-example-plain-text-TL.txt file**
