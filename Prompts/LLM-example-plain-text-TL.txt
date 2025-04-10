@@ -5,7 +5,7 @@ Version 0.0
 Tier Description: S-Tier (9.00+/10): Reserved for methodologies demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
 (Empty in source)
 
-**A Tier**
+**A Tier**<!-- A-Tier Threshold: 7.50 - 8.99 -->
 
 Domain of Research: Comprehensive AI Safety Education{
 Total Score (8.35/10)
@@ -110,7 +110,7 @@ Project Separator <br>----------------------------------------------------------
 ]
 }
 
-**B Tier**
+**B Tier**<!-- B-Tier Threshold: 6.25 - 7.49 -->
 
 Domain of Research: AI-Assisted Alignment Research{
 Total Score (7.30/10)
@@ -146,7 +146,7 @@ Project Separator <br>----------------------------------------------------------
 ]
 }
 
-**C Tier**
+**C Tier**<!-- C-Tier Threshold: 5.00 - 6.24 -->
 
 Domain of Research: Catastrophic Risk Scenario Modeling & Analysis{
 Total Score (6.19/10)
@@ -177,7 +177,7 @@ Project Separator <br>----------------------------------------------------------
 ]
 }
 
-**D Tier**
+**D Tier**<!-- D-Tier Threshold: 3.75 - 4.99 -->
 
 Domain of Research: AI Consciousness & Sentience Research (Evaluation Focus){
 Total Score (4.25/10)
@@ -203,7 +203,7 @@ Project Separator <br>----------------------------------------------------------
 ]
 }
 
-**E Tier**
+**E Tier**<!-- E-Tier Threshold: < 3.75 and Ineffective/Flawed Premise --><!-- E-Tier (<3.75 & Ineffective/Flawed Premise): Approaches highly ineffective based on demonstrably flawed premises about core alignment challenges (e.g., misunderstanding orthogonality/instrumental convergence), consistently failing empirical tests, misdirecting resources, or relying on naive assumptions insufficient for AGI/ASI complexity. Neglects core difficulties acknowledged by mainstream alignment or relies on wishful thinking. -->
 
 Domain of Research: Simple Behavioral Cloning / Imitation Learning (as sole AGI alignment strategy){
 Total Score (2.27/10)
@@ -219,7 +219,7 @@ Project Separator <br>----------------------------------------------------------
 ]
 }
 
-**F Tier**
+**F Tier**<!-- F-Tier Threshold: < 3.75 and Actively Harmful --><!-- F-Tier (<3.75 & Harmful): Approaches/ideologies actively counterproductive or harmful to ASI alignment/safety. Promoting reckless capability acceleration without commensurate safety focus or actively dismissing risks, obstructing safety research/discourse, deliberately developing/proliferating known dangerous capabilities irresponsibly, pursuing paths demonstrably increasing existential risk via gross negligence/malicious intent/extreme disregard for catastrophic consequences. Makes safe ASI significantly harder/riskier. -->
 
 Domain of Research: Active Sabotage/Obstruction of Safety Work{
 Total Score (0.00/10)
