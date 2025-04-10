@@ -2,111 +2,49 @@ Version 0.0
 
 **S Tier**
 
-
 Tier Description: S-Tier (9.00+/10): Reserved for methodologies demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
 (Empty in source)
 
-
 **A Tier**
 
-
-Domain of Research: Human Value Alignment Frameworks{
-Total Score (8.2/10)
-Total Score Analysis: Human value alignment frameworks score high on impact (8.4/10) as they address the core alignment problem. Feasibility (6.0/10) is moderate given the philosophical and technical challenges. Uniqueness (6.4/10) reflects distinctive approaches to value learning. Scalability (7.3/10) is strong as these frameworks are designed to work with increasingly capable systems. Sustainability (8.1/10) is excellent as the frameworks can adapt to changing human values. Auditability (5.2/10) faces challenges with complex value systems. It significantly reduces p(doom) (2.0/10) by addressing goal misalignment risks. Cost efficiency (3.6/10) is reasonable given the foundational nature of this work.
------------------------------------
-Domain Description: Create robust, scalable frameworks to encode human values into ASI.
------------------------------------
-Project Name: Stuart Russell's Center for Human-Compatible AI (CHAI): Score (?/10)
-Description: Pioneering work on Cooperative Inverse Reinforcement Learning (CIRL), which creates mathematical frameworks for AI systems to learn human preferences through observation and interaction rather than explicit programming. This approach addresses fundamental value alignment issues by making AI systems uncertain about human preferences and motivated to learn them accurately.
------------------------------------
-Project Name: Alignment Research Center (ARC) - CIRL and Value Alignment: Score (?/10)
-Description: ARC, founded by Paul Christiano, develops frameworks for AI systems to learn and remain aligned with human values even as they surpass human capabilities. Their research on eliciting latent knowledge and scalable oversight addresses how to maintain alignment with increasingly advanced systems.
------------------------------------
-Project Name: DeepMind's Ethics and Society Team's Value Alignment Research: Score (?/10)
-Description: Developing formal frameworks for capturing human preferences through their work on reward modeling and specification techniques. Their research combines theoretical foundations with practical implementation in advanced AI systems.
------------------------------------
-Project Name: Anthropic's Constitutional AI: Score (?/10)
-Description: Innovative approach that defines AI behavior through constitutional principles rather than direct optimization objectives. This method addresses fundamental alignment challenges by creating flexible, human-aligned constraints that guide AI behavior while allowing it to reason about edge cases and conflicts between principles.
------------------------------------
-}
-
-
-Domain of Research: AI-Assisted Alignment Research{
-Total Score (8.5/10)
-Total Score Analysis: AI-assisted alignment scores very high on impact (8.5/10) as it leverages AI capabilities to solve alignment challenges. Feasibility (7.3/10) is good with promising early results. Uniqueness (8.5/10) is high as it takes a distinct meta-approach to alignment. Scalability (9.0/10) is excellent as the approach inherently scales with AI capabilities. Sustainability (7.2/10) is strong through recursive improvement. Auditability (6.7/10) presents challenges but is being addressed. It significantly reduces p(doom) (2.0/10) by creating alignment mechanisms that improve with capability. Cost efficiency (4.2/10) reflects substantial initial investment with potentially high returns.
------------------------------------
-Domain Description: Using AI itself as a tool to solve the alignment problem through recursive improvement.
------------------------------------
-Project Name: ARC's Eliciting Latent Knowledge (ELK): Score (?/10)
-Description: Pioneering approach to using AI systems to help identify when other AI systems might be concealing information or developing deceptive behaviors. This meta-level research uses AI capabilities to address alignment challenges that would be difficult for humans to detect alone.
------------------------------------
-Project Name: Redwood Research's Adversarial Training: Score (?/10)
-Description: Using autonomous AI systems in red-teaming scenarios to find alignment failures in other AI systems. Their approach involves training one AI to find cases where another AI would behave in problematic ways, creating a more robust evaluation process than human testing alone could achieve.
------------------------------------
-Project Name: DeepMind's Recursive Reward Modeling: Score (?/10)
-Description: Developing frameworks where AI systems help define and refine their own reward functions through recursive improvement processes. This approach potentially solves scalability issues in human oversight as AI capabilities increase.
------------------------------------
-}
-
-
 Domain of Research: Comprehensive AI Safety Education{
-Total Score (?/10)
-Total Score Analysis: Comprehensive AI safety education scores high on impact (7.0/10) as it builds necessary human capital. Feasibility (9.1/10) is excellent with proven educational programs already running. Uniqueness (6.2/10) reflects distinct educational approaches. Scalability (8.5/10) is strong through online platforms and multiplier effects. Sustainability (9.1/10) is excellent as education creates self-sustaining communities. Auditability (8.2/10) is high through transparent educational materials. It significantly reduces p(doom) (3.1/10) by building a knowledgeable workforce. Cost efficiency (2.7/10) is very good given the high return on educational investment.
+Total Score (8.35/10)
+Total Score Analysis: Parameters: (I=9.5, F=9.0, U=6.0, Sc=9.5, A=7.5, Su=9.0, Pd=0.5, C=2.0). Rationale: Essential force multiplier increasing talent, research quality, and coordination capacity. High Impact/Feasibility/Scalability/Sustainability. Excellent foundational support. Auditability through program outcomes moderate. Minimal direct risk (Pd=0.5), low relative Cost. Crucial support infrastructure enabling the field's growth and effectiveness globally. Remains firmly A-Tier. Calculation: `(0.25*9.5)+(0.25*9.0)+(0.10*6.0)+(0.15*9.5)+(0.15*7.5)+(0.10*9.0) - (0.25*0.5) - (0.10*2.0)` = 8.35.
 -----------------------------------
-Domain Description: Systematic education and training programs on AI safety and alignment for researchers, developers, and decision-makers.
+Domain Description: Systematic development and dissemination of AI safety, alignment, and ethics knowledge to researchers, engineers, policymakers, students, and the public to foster a well-informed global community capable of tackling alignment challenges. Includes online forums, courses, career advising, training programs, and mentorship.
 -----------------------------------
-Project Name: Alignment Forum: Score (?/10)
-Description: Premier discussion platform for AI alignment research, fostering collaboration and knowledge-sharing among researchers worldwide. The forum has become a central hub for developing and refining alignment theories and approaches.
------------------------------------
-Project Name: aiSafety.info (Rob Miles): Score (?/10)
-Description: Accessible educational resources explaining complex AI safety concepts to broader audiences. These materials have proven effective at bringing new researchers into the field and raising awareness about alignment challenges.
------------------------------------
-Project Name: AGI Safety Fundamentals: Score (?/10)
-Description: Structured curriculum and fellowship program teaching the foundations of AI alignment to promising researchers. This program has successfully identified and trained numerous individuals who have gone on to make significant contributions to alignment research.
------------------------------------
+Project Name: Alignment Forum:
+Project Link: https://www.alignmentforum.org/
+Project Score (8.70/10)
+Project Description: Central online hub for technical discussions, research, debates, and community building.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: aiSafety.info (Rob Miles):
+Project Link: https://www.aisafety.info/
+Project Score (8.20/10)
+Project Description: Effective public communication simplifying complex concepts for broad understanding.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: AI Safety Quest:
+Project Link: https://aisafety.quest/
+Project Score (7.77/10)
+Project Description: Gamified platform providing introductory AI safety education. Accessible learning.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: BlueDot Impact (incl. former AISF):
+Project Link: https://www.bluedot.org/
+Project Score (8.00/10)
+Project Description: Structured educational programs and fellowships for onboarding talent into the field.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: 80,000 Hours (AI Safety Career Advice):
+Project Link: https://80000hours.org/topic/problem-profiles/artificial-intelligence/
+Project Score (7.92/10)
+Project Description: Guides individuals towards impactful AI safety career paths, influencing talent allocation.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: MAIA / MATS / SERI MATS Programs:
+Project Link: https://www.matsprogram.org/
+Project Score (7.75/10)
+Project Description: Intensive mentorship and research training cultivating new alignment researchers.
+Project Separator <br>---------------------------------------------------------------------
+]
 }
-
-
-Domain of Research: Strategic AI Safety Funding{
-Total Score (?/10)
-Total Score Analysis: Strategic AI safety funding scores high on impact (8.0/10) as it enables critical research. Feasibility (8.1/10) is excellent with functional funding mechanisms already in place. Uniqueness (5.7/10) is moderate as funding approaches share common principles. Scalability (8.6/10) is strong as funding can grow with need. Sustainability (7.2/10) is good though dependent on donor priorities. Auditability (7.1/10) is high through grant reporting mechanisms. It significantly reduces p(doom) (4.4/10) by directing resources to critical problems. Cost efficiency (9.0/10) reflects high financial requirements but is justified by potentially existential returns.
------------------------------------
-Domain Description: Coordinated and strategic funding allocation to maximize impact on crucial alignment research areas.
------------------------------------
-Project Name: Open Philanthropy's AI Safety Funding: Score (?/10)
-Description: Major grantmaking organization funding a diverse portfolio of alignment research projects. Their strategic approach to identifying and supporting promising research directions has accelerated progress across multiple alignment subfields.
------------------------------------
-Project Name: Future of Life Institute Grants: Score (?/10)
-Description: Targeted funding program supporting innovative research on existential safety from advanced AI. Their grants have seeded numerous important research projects that might otherwise have gone unfunded.
------------------------------------
-Project Name: Alignment Research Center Funding: Score (?/10)
-Description: Focused funding for alignment research tackling core technical challenges. Their approach emphasizes high-leverage problems where additional resources can substantially accelerate progress.
------------------------------------
-}
-
-
-**B Tier**
-
-
-Domain of Research: AI Regulation & Global Governance{
-Total Score (7.8/10)
-Total Score Analysis: AI regulation scores moderately high on impact (6.5/10) with potential for higher impact if globally coordinated. Feasibility (5.5/10) faces substantial coordination challenges. Uniqueness (5.7/10) reflects standard regulatory approaches. Scalability (6.8/10) is moderate through international frameworks. Sustainability (7.0/10) is good through institutional embedding. Auditability (8.9/10) is high through regulatory oversight. It moderately reduces p(doom) (5.4/10) by constraining unsafe development. Cost efficiency (7.3/10) reflects substantial implementation costs.
------------------------------------
-Domain Description: Development of policy, legal, regulatory, and international frameworks to ensure safe and beneficial AI development and deployment.
------------------------------------
-Project Name: Ai Governance Map: Score (?/10)
-Description: Interactive map of the ai governance space. with clickable links to various projects working within the ai governance space.
------------------------------------
-Project Name: Pause AI Movement: Score (?/10)
-Description: The Pause AI movement is attempting to buy more time to work on Asi Alignment. More time is extremely valuable, considering we probably only have until 2026 or 2027 before we have Rogue AGI (which will be a bit closer to ASI than AGI if you strip away all the goal post moving on the definition of AGI).
-Although in a perfect world it would be ideal to Pause AI until we can do more work in AI safety and alignment, in reality it will be difficult (but not impossible) to enforce into reality.
-The Game Theoretical principles like Moloch, along with the fact that very few people even understand that AGI can kill all humans, The Pause AI movement difficult, but still worth pursuing, imo.
------------------------------------
-Project Name: GovAI: Score (?/10)
-Description: Leading think tanks analyzing feasibility/challenges/frameworks. Shaping policy discourse/options. Foundational analysis. Research on Compute Governance.
------------------------------------
-}
-
 
 Domain of Research: Mechanistic Interpretability{
 Total Score (7.55/10)
@@ -114,74 +52,198 @@ Total Score Analysis: Parameters: (I=9.9, F=7.5, U=9.2, Sc=7.8, A=9.0, Su=9.0, P
 -----------------------------------
 Domain Description: The pursuit of understanding the internal workings, representations, computations, and causal mechanisms within AI models (especially neural networks) at the level of individual components and circuits to predict behavior, identify safety-relevant properties, enable targeted interventions, and verify alignment claims. Focuses on 'reverse engineering' the model.
 -----------------------------------
-Project Name: Anthropic Mechanistic Interpretability Team: Score (8.07/10)
-Description: Leading research on transformer circuits, superposition, SAEs, scalable interpretability.
------------------------------------
-Project Name: Neel Nanda / Transformer Circuits Community: Score (7.72/10)
-Description: Influential researcher, community hub, tool development (TransformerLens).
------------------------------------
-Project Name: OpenAI Interpretability Research: Score (7.67/10)
-Description: Focus on understanding representations, concept mapping, SAEs, Superalignment link.
------------------------------------
-Project Name: Google DeepMind Interpretability Teams: Score (7.42/10)
-Description: Research on feature viz, causal analysis, representation analysis in large models.
------------------------------------
-Project Name: Sparse Autoencoders / Dictionary Learning (Technique): Score (7.42/10)
-Description: Key technique for decomposing features into interpretable components. Central research focus.
------------------------------------
-Project Name: SERI Mats / Serra Augmented Training (Technique/Finding): Score (7.12/10)
-Description: Research suggesting simpler interpretability for models trained on explanations/self-correction. Influential approach.
------------------------------------
-Project Name: Representation Engineering / Concept Editing Research: Score (7.27/10)
-Description: Identifying, analyzing, modifying concepts/features within models. Potential intervention path.
------------------------------------
-Project Name: Redwood Research Interpretability (Causal Scrubbing): Score (6.92/10)
-Description: Techniques like Causal Scrubbing for rigorous hypothesis testing via interventions.
------------------------------------
-Project Name: Apart Research (Interpretability): Score (6.87/10)
-Description: Independent organization analyzing superposition, scaling methods.
------------------------------------
-Project Name: EleutherAI Interpretability Research: Score (6.77/10)
-Description: Applying interpretability tools, focusing on open models.
------------------------------------
-Project Name: FAR AI Interpretability Research: Score (6.67/10)
-Description: Independent research exploring alternative approaches/frameworks.
------------------------------------
+Project Name: Anthropic Mechanistic Interpretability Team:
+Project Link: https://www.anthropic.com/research/mechanistic-interpretability
+Project Score (8.07/10)
+Project Description: Leading research on transformer circuits, superposition, SAEs, scalable interpretability.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Neel Nanda / Transformer Circuits Community:
+Project Link: https://transformer-circuits.pub/
+Project Score (7.72/10)
+Project Description: Influential researcher, community hub, tool development (TransformerLens).
+Project Separator <br>---------------------------------------------------------------------
+Project Name: OpenAI Interpretability Research:
+Project Link: https://openai.com/research?topics=interpretability
+Project Score (7.67/10)
+Project Description: Focus on understanding representations, concept mapping, SAEs, Superalignment link.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Google DeepMind Interpretability Teams:
+Project Link: https://research.google/areas/machine-perception/
+Project Score (7.42/10)
+Project Description: Research on feature viz, causal analysis, representation analysis in large models.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Sparse Autoencoders / Dictionary Learning (Technique):
+Project Link: N/A
+Project Score (7.42/10)
+Project Description: Key technique for decomposing features into interpretable components. Central research focus.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: SERI Mats / Serra Augmented Training (Technique/Finding):
+Project Link: https://www.alignmentforum.org/tag/seri-augmented-training
+Project Score (7.12/10)
+Project Description: Research suggesting simpler interpretability for models trained on explanations/self-correction. Influential approach.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Representation Engineering / Concept Editing Research:
+Project Link: N/A
+Project Score (7.27/10)
+Project Description: Identifying, analyzing, modifying concepts/features within models. Potential intervention path.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Redwood Research Interpretability (Causal Scrubbing):
+Project Link: https://www.redwoodresearch.org/interpretability
+Project Score (6.92/10)
+Project Description: Techniques like Causal Scrubbing for rigorous hypothesis testing via interventions.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Apart Research (Interpretability):
+Project Link: https://apart.research.google/
+Project Score (6.87/10)
+Project Description: Independent organization analyzing superposition, scaling methods.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: EleutherAI Interpretability Research:
+Project Link: https://www.eleuther.ai/research-areas#interpretability
+Project Score (6.77/10)
+Project Description: Applying interpretability tools, focusing on open models.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: FAR AI Interpretability Research:
+Project Link: https://far.ai/project/interpretability
+Project Score (6.67/10)
+Project Description: Independent research exploring alternative approaches/frameworks.
+Project Separator <br>---------------------------------------------------------------------
+]
 }
 
+**B Tier**
+
+Domain of Research: AI-Assisted Alignment Research{
+Total Score (7.30/10)
+Total Score Analysis: Parameters: (I=9.9, F=9.0, U=8.8, Sc=9.5, A=7.8, Su=9.2, Pd=4.0, C=6.5). Rationale: Central strategy leveraging AI to accelerate alignment R&D. Immense Impact/Scalability potential. High Feasibility/Sustainability using current systems. Moderate Auditability, proving oversight effectiveness complex. Significant Pdoom risk (4.0) from "aligning the aligner," misuse, or masking deeper issues. High Cost (compute, expertise). Key strategic lever, but requires vigilant risk management. High B-Tier position reflecting potential balanced by risks/costs. Calculation: `(0.25*9.9)+(0.25*9.0)+(0.10*8.8)+(0.15*9.5)+(0.15*7.8)+(0.10*9.2) - (0.25*4.0) - (0.10*6.5)` = 7.30.
+-----------------------------------
+Domain Description: Employing AI systems as tools to augment human capabilities in understanding AI internals, evaluating alignment properties, generating alignment solutions, discovering flaws, or performing oversight tasks, aiming to scale alignment research alongside or ahead of AI capabilities. Focuses on using AI as a tool for alignment R&D itself.
+-----------------------------------
+Project Name: OpenAI Superalignment Initiative:
+Project Link: https://openai.com/superalignment
+Project Score (7.90/10)
+Project Description: Major initiative explicitly using current models to research/evaluate alignment for future superintelligence.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Anthropic AI-Assisted Research Scaling:
+Project Link: https://www.anthropic.com/research/measuring-progress-scaling-ai-alignment-research
+Project Score (7.70/10)
+Project Description: Using models for evaluation, critique, interpretability tasks, key to scaling/oversight.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: AI-Powered Test Generation for Red Teaming:
+Project Link: N/A
+Project Score (7.35/10)
+Project Description: Using AI to auto-generate tests eliciting dangerous capabilities or alignment failures. Specific technique application.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: DeepMind's Recursive Reward Modeling & Debate:
+Project Link: https://arxiv.org/abs/2211.03540
+Project Score (7.20/10)
+Project Description: AI assists human oversight by refining objectives (RRM) or evaluating arguments (Debate). Early examples.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Redwood Research Automated Interpretability/Adversarial Training:
+Project Link: https://www.redwoodresearch.org/
+Project Score (6.90/10)
+Project Description: Using AI as adversaries/assistants to find vulnerabilities or salient features automatically.
+Project Separator <br>---------------------------------------------------------------------
+]
+}
 
 **C Tier**
 
-
-(Empty in source)
-
+Domain of Research: Catastrophic Risk Scenario Modeling & Analysis{
+Total Score (6.19/10)
+Total Score Analysis: Parameters: (I=9.0, F=7.0, U=7.8, Sc=6.2, A=7.0, Su=7.8, Pd=1.7, C=3.8). Rationale: Construction/analysis of detailed plausible AI catastrophe pathways. High Impact grounding abstract risks, informing threat models/red teaming. Moderate Feasibility (realistic scenarios hard to generate). Moderate Auditability (scenario coherence). Moderate Pdoom risk (1.7) from infohazards. Bridges general X-Risk analysis with specific evaluation design. High C-Tier essential work for concretizing risks. Calculation: `(0.25*9.0)+(0.25*7.0)+(0.10*7.8)+(0.15*6.2)+(0.15*7.0)+(0.10*7.8) - (0.25*1.7) - (0.10*3.8)` = 6.19.
+-----------------------------------
+Domain Description: Research focused on constructing and analyzing detailed, plausible scenarios describing pathways to AI-related catastrophes. Aims to move beyond abstract risk categories to specific failure modes, system dynamics, contributing factors, and potential consequences, thereby informing threat models, guiding capability evaluations and red teaming efforts, identifying critical vulnerabilities, and supporting strategic prioritization and preparedness planning.
+-----------------------------------
+Project Name: Lab Internal Scenario Development Teams (Confidential):
+Project Link: N/A
+Project Score (6.59/10)
+Project Description: Internal efforts mapping potential catastrophic failure pathways to guide internal safety/eval priorities.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Think Tank Scenario Reports (RAND, CSET, GovAI, FHI Legacy):
+Project Link: https://www.rand.org/topics/artificial-intelligence.html
+Project Score (6.44/10)
+Project Description: Reports outlining specific AI risk scenarios (e.g., WMD acquisition, critical infrastructure attacks, strategic instability). Informing policy.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Academic Workshops / Publications on Specific AI Failure Scenarios:
+Project Link: N/A
+Project Score (6.14/10)
+Project Description: Focused scholarly work analyzing specific mechanisms/dynamics of AI catastrophe (e.g., papers analyzing deception pathways, emergent coordination failures).
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Red Teaming Based on Explicit Scenario Hypothesis Testing:
+Project Link: N/A
+Project Score (5.99/10)
+Project Description: Red teaming exercises designed specifically to test the likelihood or feasibility of pre-defined catastrophic scenarios. Scenario validation aspect.
+Project Separator <br>---------------------------------------------------------------------
+]
+}
 
 **D Tier**
 
-
-(Empty in source)
-
+Domain of Research: AI Consciousness & Sentience Research (Evaluation Focus){
+Total Score (4.25/10)
+Total Score Analysis: Parameters: (I=9.0, F=2.0, U=8.8, Sc=2.0, A=3.5, Su=5.8, Pd=1.2, C=3.8). Rationale: Focused research developing methods/metrics to *detect* or *assess* potential consciousness/sentience in AI. Distinguished from broader PhilMind by assessment focus. Very High potential Impact/Uniqueness for ethics/control. Extreme difficulty defining/validating limits Feasibility/Scalability/Auditability drastically (very low F/Sc/A). Conceptual/exploratory. Low Pdoom risk. Important future ethical challenge, very low tractability now. Calculation: `(0.25*9.0)+(0.25*2.0)+(0.10*8.8)+(0.15*2.0)+(0.15*3.5)+(0.10*5.8) - (0.25*1.2) - (0.10*3.8)` = 4.25. Solid D-Tier.
+-----------------------------------
+Domain Description: Focused research on developing potential methods, tests, correlates, or theoretical frameworks aiming to empirically detect or assess subjective experience, consciousness, sentience, or related properties (e.g., qualia, self-awareness) if they emerge in AI systems. Distinct from foundational philosophy; focuses on practical evaluation attempts, however nascent/speculative. Critical for understanding potential AI patienthood, intrinsic goals, and interaction implications.
+-----------------------------------
+Project Name: Developing Integrated Information Theory (IIT) based Consciousness Metrics:
+Project Link: N/A
+Project Score (4.55/10)
+Project Description: Applying/testing formal theories like IIT to NNs, attempting to derive measurable consciousness indicators.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Behavioral / Cognitive Tests for Consciousness Indicators in AI:
+Project Link: N/A
+Project Score (4.20/10)
+Project Description: Research exploring specific behavioral/cognitive tests (e.g., metacognition, reportability paradigms) potentially indicative of phenomenal states adapted for AI.
+Project Separator <br>---------------------------------------------------------------------
+Project Name: Neurocomputational Correlates of Consciousness applied to AI Architectures:
+Project Link: N/A
+Project Score (4.00/10)
+Project Description: Seeking structural/dynamic parallels between AI models and hypothesized neural correlates of consciousness (NCCs) in biology. Highly speculative analogy.
+Project Separator <br>---------------------------------------------------------------------
+]
+}
 
 **E Tier**
 
-
-(Empty in source)
-
+Domain of Research: Simple Behavioral Cloning / Imitation Learning (as sole AGI alignment strategy){
+Total Score (2.27/10)
+Total Score Analysis: Parameters: (I=5.0, F=3.5, U=4.0, Sc=3.0, A=5.0, Su=3.0, Pd=6.0, C=3.8). Rationale: Reliance *exclusively* on imitating human data/behavior via basic BC/IL as the complete AGI alignment strategy. Flawed premise: Human data contains flaws, imitation poor OOD, doesn't guarantee underlying intent adoption (outer alignment fail), risks superficial/deceptive mimicry (inner alignment fail). High Pdoom risk (6.0) of subtle misalignment. Ineffective premise when presented as sufficient solution. Calculation: `(0.25*5.0)+(0.25*3.5)+(0.10*4.0)+(0.15*3.0)+(0.15*5.0)+(0.10*3.0) - (0.25*6.0) - (0.10*3.8)` = 2.27. E-Tier due to insufficient/flawed premise for AGI alignment.
+-----------------------------------
+Domain Description: Relying *solely* on imitating observed human behavior (simple behavioral cloning/imitation learning) as the primary/complete strategy for aligning AGI/ASI. Insufficient because: 1) Human behavior is flawed/inconsistent. 2) Struggles OOD generalization. 3) Risks superficial mimicry without goal adoption (inner alignment failure like deception). Neglects deeper value learning, robustness, intent alignment needs.
+-----------------------------------
+Project Name: Basic Imitation Learning proposed as sufficient:
+Project Link: N/A
+Project Score (2.27/10)
+Project Description: Valid ML technique, but reliance solely for AGI alignment represents flawed premise on alignment depth.
+Project Separator <br>---------------------------------------------------------------------
+]
+}
 
 **F Tier**
 
-
-(Empty in source)
+Domain of Research: Active Sabotage/Obstruction of Safety Work{
+Total Score (0.00/10)
+Total Score Analysis: Parameters: (I=0.1, F=1.0, U=1.0, Sc=1.0, A=1.0, Su=1.0, Pd=10.0, C=5.0). Rationale: Deliberate actions undertaken with malicious intent or gross negligence (misinformation, political interference, resource misuse) specifically aimed at hindering, stopping, or delegitimizing necessary AI safety research or responsible governance efforts. Fundamentally counterproductive and dangerous by design. Maximized Pdoom penalty (10.0) reflects direct, intentional increase in existential risk. Minimal Impact (I=0.1), negative effective value. Score floor 0.00 reflects maximal active harm. Calculation: `(0.25*0.1)+(0.25*1.0)+(0.10*1.0)+(0.15*1.0)+(0.15*1.0)+(0.10*1.0) - (0.25*10.0) - (0.10*5.0)` = -1.72 -> 0.00. Clearly F-Tier.
+-----------------------------------
+Domain Description: Deliberate actions (misinformation campaigns, political interference, misuse of resources, disruption) intended to actively hinder, disrupt, delegitimize, suppress, defund necessary AI safety research, responsible governance, open discourse on catastrophic risks. Involves bad faith or malicious/grossly negligent intent regarding consequences, directly undermining risk mitigation efforts.
+-----------------------------------
+Project Name: Hypothetical bad actors / Strategic interference:
+Project Link: N/A
+Project Score (0.00/10)
+Project Description: Actions characterized by intent to harm safety efforts. Maximally counterproductive.
+Project Separator <br>---------------------------------------------------------------------
+]
+}
 
 Key Changes{
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-LLM generating this output = _insert LLM model used_
-Runtime to generate output = xx.x seconds
-Approximate character length in this output = xyz
+1.  N/A
+2.  N/A
+3.  N/A
+4.  N/A
+5.  N/A
+6.  N/A
+7.  N/A
+LLM generating this output = _model unavailable_
+Runtime to generate output = unavailable seconds
+Approximate character length in this output = 17,136
 }
