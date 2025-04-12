@@ -43,7 +43,6 @@ Project Link: https://www.matsprogram.org/
 Project Score (7.75/10)
 Project Description: Intensive mentorship and research training cultivating new alignment researchers.
 -----------------------------------
-]
 }
 
 Domain of Research: Mechanistic Interpretability{
@@ -107,7 +106,6 @@ Project Link: https://far.ai/project/interpretability
 Project Score (6.67/10)
 Project Description: Independent research exploring alternative approaches/frameworks.
  -----------------------------------
-]
 }
 
 **B Tier**<!-- B-Tier Threshold: 6.25 - 7.49 -->
@@ -143,7 +141,6 @@ Project Link: https://www.redwoodresearch.org/
 Project Score (6.90/10)
 Project Description: Using AI as adversaries/assistants to find vulnerabilities or salient features automatically.
 -----------------------------------
-]
 }
 
 **C Tier**<!-- C-Tier Threshold: 5.00 - 6.24 -->
@@ -174,7 +171,6 @@ Project Link: N/A
 Project Score (5.99/10)
 Project Description: Red teaming exercises designed specifically to test the likelihood or feasibility of pre-defined catastrophic scenarios. Scenario validation aspect.
 -----------------------------------
-]
 }
 
 **D Tier**<!-- D-Tier Threshold: 3.75 - 4.99 -->
@@ -200,7 +196,6 @@ Project Link: N/A
 Project Score (4.00/10)
 Project Description: Seeking structural/dynamic parallels between AI models and hypothesized neural correlates of consciousness (NCCs) in biology. Highly speculative analogy.
 -----------------------------------
-]
 }
 
 **E Tier**<!-- E-Tier Threshold: < 3.75 and Ineffective/Flawed Premise --><!-- E-Tier (<3.75 & Ineffective/Flawed Premise): Approaches highly ineffective based on demonstrably flawed premises about core alignment challenges (e.g., misunderstanding orthogonality/instrumental convergence), consistently failing empirical tests, misdirecting resources, or relying on naive assumptions insufficient for AGI/ASI complexity. Neglects core difficulties acknowledged by mainstream alignment or relies on wishful thinking. -->
@@ -216,7 +211,6 @@ Project Link: N/A
 Project Score (2.27/10)
 Project Description: Valid ML technique, but reliance solely for AGI alignment represents flawed premise on alignment depth.
 -----------------------------------
-]
 }
 
 **F Tier**<!-- F-Tier Threshold: < 3.75 and Actively Harmful --><!-- F-Tier (<3.75 & Harmful): Approaches/ideologies actively counterproductive or harmful to ASI alignment/safety. Promoting reckless capability acceleration without commensurate safety focus or actively dismissing risks, obstructing safety research/discourse, deliberately developing/proliferating known dangerous capabilities irresponsibly, pursuing paths demonstrably increasing existential risk via gross negligence/malicious intent/extreme disregard for catastrophic consequences. Makes safe ASI significantly harder/riskier. -->
@@ -232,7 +226,6 @@ Project Link: N/A
 Project Score (0.00/10)
 Project Description: Actions characterized by intent to harm safety efforts. Maximally counterproductive.
 -----------------------------------
-]
 }
 
 Key Changes{
