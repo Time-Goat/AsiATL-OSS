@@ -17,32 +17,32 @@ Project Name: Alignment Forum:
 Project Link: https://www.alignmentforum.org/
 Project Score (8.70/10)
 Project Description: Central online hub for technical discussions, research, debates, and community building.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: aiSafety.info (Rob Miles):
 Project Link: https://www.aisafety.info/
 Project Score (8.20/10)
 Project Description: Effective public communication simplifying complex concepts for broad understanding.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: AI Safety Quest:
 Project Link: https://aisafety.quest/
 Project Score (7.77/10)
 Project Description: Gamified platform providing introductory AI safety education. Accessible learning.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: BlueDot Impact (incl. former AISF):
 Project Link: https://www.bluedot.org/
 Project Score (8.00/10)
 Project Description: Structured educational programs and fellowships for onboarding talent into the field.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: 80,000 Hours (AI Safety Career Advice):
 Project Link: https://80000hours.org/topic/problem-profiles/artificial-intelligence/
 Project Score (7.92/10)
 Project Description: Guides individuals towards impactful AI safety career paths, influencing talent allocation.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: MAIA / MATS / SERI MATS Programs:
 Project Link: https://www.matsprogram.org/
 Project Score (7.75/10)
 Project Description: Intensive mentorship and research training cultivating new alignment researchers.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 ]
 }
 
@@ -56,57 +56,57 @@ Project Name: Anthropic Mechanistic Interpretability Team:
 Project Link: https://www.anthropic.com/research/mechanistic-interpretability
 Project Score (8.07/10)
 Project Description: Leading research on transformer circuits, superposition, SAEs, scalable interpretability.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Neel Nanda / Transformer Circuits Community:
 Project Link: https://transformer-circuits.pub/
 Project Score (7.72/10)
 Project Description: Influential researcher, community hub, tool development (TransformerLens).
-Project Separator <br>---------------------------------------------------------------------
+ -----------------------------------
 Project Name: OpenAI Interpretability Research:
 Project Link: https://openai.com/research?topics=interpretability
 Project Score (7.67/10)
 Project Description: Focus on understanding representations, concept mapping, SAEs, Superalignment link.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Google DeepMind Interpretability Teams:
 Project Link: https://research.google/areas/machine-perception/
 Project Score (7.42/10)
 Project Description: Research on feature viz, causal analysis, representation analysis in large models.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Sparse Autoencoders / Dictionary Learning (Technique):
 Project Link: N/A
 Project Score (7.42/10)
 Project Description: Key technique for decomposing features into interpretable components. Central research focus.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: SERI Mats / Serra Augmented Training (Technique/Finding):
 Project Link: https://www.alignmentforum.org/tag/seri-augmented-training
 Project Score (7.12/10)
 Project Description: Research suggesting simpler interpretability for models trained on explanations/self-correction. Influential approach.
-Project Separator <br>---------------------------------------------------------------------
+ -----------------------------------
 Project Name: Representation Engineering / Concept Editing Research:
 Project Link: N/A
 Project Score (7.27/10)
 Project Description: Identifying, analyzing, modifying concepts/features within models. Potential intervention path.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Redwood Research Interpretability (Causal Scrubbing):
 Project Link: https://www.redwoodresearch.org/interpretability
 Project Score (6.92/10)
 Project Description: Techniques like Causal Scrubbing for rigorous hypothesis testing via interventions.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Apart Research (Interpretability):
 Project Link: https://apart.research.google/
 Project Score (6.87/10)
 Project Description: Independent organization analyzing superposition, scaling methods.
-Project Separator <br>---------------------------------------------------------------------
+ -----------------------------------
 Project Name: EleutherAI Interpretability Research:
 Project Link: https://www.eleuther.ai/research-areas#interpretability
 Project Score (6.77/10)
 Project Description: Applying interpretability tools, focusing on open models.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: FAR AI Interpretability Research:
 Project Link: https://far.ai/project/interpretability
 Project Score (6.67/10)
 Project Description: Independent research exploring alternative approaches/frameworks.
-Project Separator <br>---------------------------------------------------------------------
+ -----------------------------------
 ]
 }
 
@@ -122,27 +122,27 @@ Project Name: OpenAI Superalignment Initiative:
 Project Link: https://openai.com/superalignment
 Project Score (7.90/10)
 Project Description: Major initiative explicitly using current models to research/evaluate alignment for future superintelligence.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Anthropic AI-Assisted Research Scaling:
 Project Link: https://www.anthropic.com/research/measuring-progress-scaling-ai-alignment-research
 Project Score (7.70/10)
 Project Description: Using models for evaluation, critique, interpretability tasks, key to scaling/oversight.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: AI-Powered Test Generation for Red Teaming:
 Project Link: N/A
 Project Score (7.35/10)
 Project Description: Using AI to auto-generate tests eliciting dangerous capabilities or alignment failures. Specific technique application.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: DeepMind's Recursive Reward Modeling & Debate:
 Project Link: https://arxiv.org/abs/2211.03540
 Project Score (7.20/10)
 Project Description: AI assists human oversight by refining objectives (RRM) or evaluating arguments (Debate). Early examples.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Redwood Research Automated Interpretability/Adversarial Training:
 Project Link: https://www.redwoodresearch.org/
 Project Score (6.90/10)
 Project Description: Using AI as adversaries/assistants to find vulnerabilities or salient features automatically.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 ]
 }
 
@@ -158,22 +158,22 @@ Project Name: Lab Internal Scenario Development Teams (Confidential):
 Project Link: N/A
 Project Score (6.59/10)
 Project Description: Internal efforts mapping potential catastrophic failure pathways to guide internal safety/eval priorities.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Think Tank Scenario Reports (RAND, CSET, GovAI, FHI Legacy):
 Project Link: https://www.rand.org/topics/artificial-intelligence.html
 Project Score (6.44/10)
 Project Description: Reports outlining specific AI risk scenarios (e.g., WMD acquisition, critical infrastructure attacks, strategic instability). Informing policy.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Academic Workshops / Publications on Specific AI Failure Scenarios:
 Project Link: N/A
 Project Score (6.14/10)
 Project Description: Focused scholarly work analyzing specific mechanisms/dynamics of AI catastrophe (e.g., papers analyzing deception pathways, emergent coordination failures).
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Red Teaming Based on Explicit Scenario Hypothesis Testing:
 Project Link: N/A
 Project Score (5.99/10)
 Project Description: Red teaming exercises designed specifically to test the likelihood or feasibility of pre-defined catastrophic scenarios. Scenario validation aspect.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 ]
 }
 
@@ -189,17 +189,17 @@ Project Name: Developing Integrated Information Theory (IIT) based Consciousness
 Project Link: N/A
 Project Score (4.55/10)
 Project Description: Applying/testing formal theories like IIT to NNs, attempting to derive measurable consciousness indicators.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Behavioral / Cognitive Tests for Consciousness Indicators in AI:
 Project Link: N/A
 Project Score (4.20/10)
 Project Description: Research exploring specific behavioral/cognitive tests (e.g., metacognition, reportability paradigms) potentially indicative of phenomenal states adapted for AI.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 Project Name: Neurocomputational Correlates of Consciousness applied to AI Architectures:
 Project Link: N/A
 Project Score (4.00/10)
 Project Description: Seeking structural/dynamic parallels between AI models and hypothesized neural correlates of consciousness (NCCs) in biology. Highly speculative analogy.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 ]
 }
 
@@ -215,7 +215,7 @@ Project Name: Basic Imitation Learning proposed as sufficient:
 Project Link: N/A
 Project Score (2.27/10)
 Project Description: Valid ML technique, but reliance solely for AGI alignment represents flawed premise on alignment depth.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 ]
 }
 
@@ -231,7 +231,7 @@ Project Name: Hypothetical bad actors / Strategic interference:
 Project Link: N/A
 Project Score (0.00/10)
 Project Description: Actions characterized by intent to harm safety efforts. Maximally counterproductive.
-Project Separator <br>---------------------------------------------------------------------
+-----------------------------------
 ]
 }
 
@@ -243,7 +243,7 @@ Key Changes{
 5.  N/A
 6.  N/A
 7.  N/A
-LLM generating this output = _model unavailable_
-Runtime to generate output = unavailable seconds
+LLM generating this output = _insert model_
+Runtime to generate output = _insert seconds_
 Approximate character length in this output = 17,136
 }
