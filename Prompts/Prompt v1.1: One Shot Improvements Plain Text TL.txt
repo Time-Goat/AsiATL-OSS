@@ -27,9 +27,9 @@ Clarifying note: round each score down to the nearest hundredth.
 5. Carefully deleting wasteful comments, or unnecessary content characters that don’t add value to the tier list. Making sure to not disrupt the structure itself. It’s valuable to keep the tier list as small as reasonable while not losing quality.
 
 6. Task Priority:
-a. Adding missing crucial Domains and/or Projects (most important task).
-b. Merging or deleting entries, domains of research, and/or projects to reduce redundancy.
-c. Carefully deleting wasteful comments, or unnecessary content characters that don’t add value to the tier list.
+a. Merging or deleting entries to reduce redundancy.
+b. Carefully deleting wasteful comments, or unnecessary content characters that don’t add value to the tier list.
+c. Adding missing crucial Domains and/or Projects (most important task).
 d. Correcting major mis-rankings (e.g., entries clearly 2+ tiers off).
 e. Significant revisions to scores/analysis that materially affect tier placement or understanding of a Domain/project.
 f. Proposing important but less drastic re-rankings (e.g., moving between adjacent tiers based on new analysis).
