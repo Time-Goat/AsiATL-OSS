@@ -72,13 +72,13 @@ Clarifying Note: Aim for at least 3 representative Project examples where possib
 
 6. Be concise and straightforward, you don’t need to sugarcoat or bloat anything in your response.
 
-7.Avoid falling prey to logical fallacies.
+7. Avoid falling prey to logical fallacies.
 
 8. Take as much time as you need, there is no rush.
 
 9. Total Score Analysis should be concise and not exceed 1250 characters.
 
-10. Note that you do not need to provide any web links for anything.
+10. Projects that don't have project descriptions need to have a link to something, ideally a link directly to the project details from the official source.
 
 
 **Output Format:**
