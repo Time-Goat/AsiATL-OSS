@@ -1,0 +1,11 @@
+Last Updated: 4/21/25
+
+Evaluating total scores for domains and projects based on the following 10 point scale criteria: 
+Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score).
+
+Clarifying Note: For Pdoom_score and Cost_score, a higher numerical score (closer to 10) reflects a worse outcome (higher risk increase / higher resource cost) and thus leads to a larger penalty subtraction in the Total_score formula. A score closer to 0 or 1 indicates minimal risk increase or very low cost.
+Clarifying Note: Pdoom_score and Cost_score will count against the final score.
+Clarifying Note: Domains of research and Projects both have separate scores that should be evaluated separately. Project scores do not need a justification write up, only the domain of research total score analysis needs a detailed justification.
+Clarifying Note: In cases where complete data is not available for every criterion, apply your analytical judgment to assign the most plausible score based on your research; present scores directly without noting uncertainty.
+Clarifying Note: When scoring Projects nested under Domains, prioritize scoring the specific entity (lab, organization, distinct program) undertaking the work if identifiable.
+Clarifying note: round each score down to the nearest hundredth.
