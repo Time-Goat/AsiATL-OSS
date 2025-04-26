@@ -37,12 +37,6 @@ PN: 80,000 Hours (AI Safety Career Advice):
 PL: https://80000hours.org/topic/problem-profiles/artificial-intelligence/
 PS (7.92/10)
 PD: Guides individuals towards impactful AI safety career paths, influencing talent allocation.
------------------------------------
-PN: MAIA / MATS / SERI MATS Programs:
-PL: https://www.matsprogram.org/
-PS (7.75/10)
-PD: Intensive mentorship and research training cultivating new alignment researchers.
------------------------------------
 }
 
 Domain of Research: Mechanistic Interpretability{
@@ -71,41 +65,20 @@ PL: https://research.google/areas/machine-perception/
 PS (7.42/10)
 PD: Research on feature viz, causal analysis, representation analysis in large models.
 -----------------------------------
-PN: Sparse Autoencoders / Dictionary Learning (Technique):
-PL: N/A
-PS (7.42/10)
-PD: Key technique for decomposing features into interpretable components. Central research focus.
------------------------------------
 PN: SERI Mats / Serra Augmented Training (Technique/Finding):
 PL: https://www.alignmentforum.org/tag/seri-augmented-training
 PS (7.12/10)
 PD: Research suggesting simpler interpretability for models trained on explanations/self-correction. Influential approach.
- -----------------------------------
-PN: Representation Engineering / Concept Editing Research:
-PL: N/A
-PS (7.27/10)
-PD: Identifying, analyzing, modifying concepts/features within models. Potential intervention path.
 -----------------------------------
 PN: Redwood Research Interpretability (Causal Scrubbing):
 PL: https://www.redwoodresearch.org/interpretability
 PS (6.92/10)
 PD: Techniques like Causal Scrubbing for rigorous hypothesis testing via interventions.
 -----------------------------------
-PN: Apart Research (Interpretability):
-PL: https://apart.research.google/
-PS (6.87/10)
-PD: Independent organization analyzing superposition, scaling methods.
- -----------------------------------
 PN: EleutherAI Interpretability Research:
 PL: https://www.eleuther.ai/research-areas#interpretability
 PS (6.77/10)
 PD: Applying interpretability tools, focusing on open models.
------------------------------------
-PN: FAR AI Interpretability Research:
-PL: https://far.ai/project/interpretability
-PS (6.67/10)
-PD: Independent research exploring alternative approaches/frameworks.
- -----------------------------------
 }
 
 **B Tier**<!-- B-Tier Threshold: 6.25 - 7.49 -->
@@ -140,7 +113,6 @@ PN: Redwood Research Automated Interpretability/Adversarial Training:
 PL: https://www.redwoodresearch.org/
 PS (6.90/10)
 PD: Using AI as adversaries/assistants to find vulnerabilities or salient features automatically.
------------------------------------
 }
 
 **C Tier**<!-- C-Tier Threshold: 5.00 - 6.24 -->
@@ -170,7 +142,6 @@ PN: Red Teaming Based on Explicit Scenario Hypothesis Testing:
 PL: N/A
 PS (5.99/10)
 PD: Red teaming exercises designed specifically to test the likelihood or feasibility of pre-defined catastrophic scenarios. Scenario validation aspect.
------------------------------------
 }
 
 **D Tier**<!-- D-Tier Threshold: 3.75 - 4.99 -->
@@ -195,7 +166,6 @@ PN: Neurocomputational Correlates of Consciousness applied to AI Architectures:
 PL: N/A
 PS (4.00/10)
 PD: Seeking structural/dynamic parallels between AI models and hypothesized neural correlates of consciousness (NCCs) in biology. Highly speculative analogy.
------------------------------------
 }
 
 **E Tier**<!-- E-Tier Threshold: < 3.75 and Ineffective/Flawed Premise --><!-- E-Tier (<3.75 & Ineffective/Flawed Premise): Approaches highly ineffective based on demonstrably flawed premises about core alignment challenges (e.g., misunderstanding orthogonality/instrumental convergence), consistently failing empirical tests, misdirecting resources, or relying on naive assumptions insufficient for AGI/ASI complexity. Neglects core difficulties acknowledged by mainstream alignment or relies on wishful thinking. -->
@@ -210,7 +180,6 @@ PN: Basic Imitation Learning proposed as sufficient:
 PL: N/A
 PS (2.27/10)
 PD: Valid ML technique, but reliance solely for AGI alignment represents flawed premise on alignment depth.
------------------------------------
 }
 
 **F Tier**<!-- F-Tier Threshold: < 3.75 and Actively Harmful --><!-- F-Tier (<3.75 & Harmful): Approaches/ideologies actively counterproductive or harmful to ASI alignment/safety. Promoting reckless capability acceleration without commensurate safety focus or actively dismissing risks, obstructing safety research/discourse, deliberately developing/proliferating known dangerous capabilities irresponsibly, pursuing paths demonstrably increasing existential risk via gross negligence/malicious intent/extreme disregard for catastrophic consequences. Makes safe ASI significantly harder/riskier. -->
@@ -225,7 +194,6 @@ PN: Hypothetical bad actors / Strategic interference:
 PL: N/A
 PS (0.00/10)
 PD: Actions characterized by intent to harm safety efforts. Maximally counterproductive.
------------------------------------
 }
 
 Key Changes{
