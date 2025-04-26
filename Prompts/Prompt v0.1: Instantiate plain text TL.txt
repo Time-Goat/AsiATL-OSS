@@ -61,12 +61,12 @@ Clarifying note: round each score down to the nearest hundredth.
 12. Note that you do not need to provide any web links for anything.
 
 **Output Format:**
-Refer to the LLM-example-plain-text-TL.txt file to further understand how to structure your tier list.
-Provide your completed tier list output in the form of plain text .txt file following the formatting in the included LLM-example-plain-text-TL.txt file. 
+Refer to the Example-Plain-Text-TL.txt file to further understand how to structure your tier list.
+Provide your completed tier list output in the form of plain text .txt file following the formatting in the included Example-Plain-Text-TL.txt file. 
 Populate the tier list with at least 15 entries or until your context window has about 500 tokens remaining, then let us know your context window has run out and you can’t generate anymore entries
 Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
 
-**BEGINNING of LLM-example-plain-text-TL.txt file**
+**BEGINNING of Example-Plain-Text-TL.txt file**
 
 Version 0.0
 
@@ -257,6 +257,6 @@ Runtime to generate output = xx.x seconds
 Approximate character length in this output = xyz
 }
 
-**END of LLM-example-plain-text-TL.txt file**
+**END of Example-Plain-Text-TL.txt file**
 **Prompt Ending**
 
