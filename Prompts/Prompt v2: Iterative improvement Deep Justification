@@ -45,13 +45,13 @@ i.  Each Entry begins with an `<h3>` tag containing the 'Domain Name' (e.g., `<h
 ii.  This is immediately followed by a primary `div.toggle-paragraph-content` container which holds all the information *about that Domain*.
 iii.  Inside this primary `div`, you will find:
     a.  The Domain's overall 'Total Score', displayed within an `<h5>` tag (e.g., `<h5 class="toggle-paragraph"><a style="color: orange;">Total Score (X.X/10)</a></h5>`).
-    b.  The 'Total Score Analysis' for the Domain, located within a nested `div.toggle-paragraph-content` that is revealed when the `<h5>` score is clicked.
-    c.  The 'Domain Description' (usually preceded by `<a style="color: orange;">Description:</a>`).
+    b.  The 'Total Score Analysis' for the Domain, located within a nested `div.toggle-paragraph-content` that is revealed when the `<h5>` score is clicked. After the 'Total Score Ananlysis', add a <hr> tag
+    c.  The 'Domain Description' (usually preceded by `<a style="color: orange;">Description:</a>`). After the 'Domain Description', add a <hr> tag
     d.  Listings of multiple specific 'Projects' relevant to the Domain. Each 'Project' listing typically includes:
         i.  Its name/link (often in an `<a>` tag).
         ii. Its individual 'Total Score' (e.g., `Score (Y.Y/10)`).
-        iii. A brief description explaining its relevance or work.
-        Iiii. a separator <br>---------------------------------------------------------------------
+        iii. A 1 sentence Optional project description explaining its relevance or work.
+        Iiii. a separator <hr>
 
 
 Domains_of_Research_examples = [Human_Value_Alignment_Frameworks, AI-Assisted_Alignment_Research, Comprehensive_AI_Safety_Education, Strategic_AI_Safety_Funding, AI_Regulation_&_Global_Governance, Mechanistic_Interpretability]
