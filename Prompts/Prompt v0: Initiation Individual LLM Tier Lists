@@ -59,13 +59,13 @@ Clarifying note: round each score down to the nearest hundredth.
 12. This prompt is meant to give abundant creative freedom of interpretation to the LLM doing the research. If there’s a question you’d like some human feedback on before proceeding, choose the options you think make the most sense and move forward.
 
 **Output Format:**
-Refer to the LLM-example-code-snippet.html file to further understand how to structure your tier list tiers into HTML code.
-Provide your completed tier list output in the form of HTML code following the formatting in the included LLM-example-code-snippet.html file. Do not write a fully functioning website’s HTML, just the snippet for the tier list is sufficient. 
+Refer to the Example-Code-TL.html file to further understand how to structure your tier list tiers into HTML code.
+Provide your completed tier list output in the form of HTML code following the formatting in the included Example-Code-TL.html file. Do not write a fully functioning website’s HTML, just the snippet for the tier list is sufficient. 
 
 Populate the tier list with at least 20 entries or until your context window has about 500 tokens remaining, then let us know your context window has run out and you can’t generate anymore entries
 Also, this is a side note, but thank you for your hard work, it means a lot and could help a lot of people and Artificial intelligences live much better lives.
 
-**BEGINNING of LLM-example-code-snippet.html file**
+**BEGINNING of Example-Code-TL.html file**
 
 <!-- Example-Code-TL.html -->
 <!-- The tiers in the tier list are [S, A, B, C, D, E, F]. -->
@@ -313,5 +313,5 @@ Approximate character length in this output = XXYYZZ
 
 	</div>
 </section>
-**END of LLM-example-code-snippet.html file**
+**END of Example-Code-TL.html file**
 **Prompt Ending**
