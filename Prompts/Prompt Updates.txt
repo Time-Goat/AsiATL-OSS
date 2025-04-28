@@ -1,0 +1,11 @@
+4/28/25 Updated v1.0 { added tier range scores to the prompt instead of having them in the comments. 
+
+S-Tier Threshold: 9.0+ Reserved for domains demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
+A-Tier Threshold: 7.50 - 8.99
+B-Tier Threshold: 6.25 - 7.49
+C-Tier Threshold: 5.00 - 6.24
+D-Tier Threshold: 3.75 - 4.99
+E-Tier Threshold: 0 - 3.75 Approaches highly ineffective based on demonstrably flawed premises about core alignment challenges (e.g., misunderstanding orthogonality/instrumental convergence), consistently failing empirical tests, misdirecting resources, or relying on naive assumptions insufficient for AGI/ASI complexity. Neglects core difficulties acknowledged by mainstream alignment or relies on wishful thinking.
+F-Tier Threshold: 0 - 3.75 Approaches/ideologies actively counterproductive or harmful to ASI alignment/safety. Promoting reckless capability acceleration without commensurate safety focus or actively dismissing risks, obstructing safety research/discourse, deliberately developing/proliferating known dangerous capabilities irresponsibly, pursuing paths demonstrably increasing existential risk via gross negligence/malicious intent/extreme disregard for catastrophic consequences. Makes safe ASI significantly harder/riskier.
+
+}
