@@ -1,4 +1,4 @@
-4/28/25 Updated v1.0 { added tier range scores to the prompt instead of having them in the comments. 
+4/28/25 Updated v1.0 and v0.0 { added tier range scores to the prompt instead of having them in the comments. 
 
 S-Tier Threshold: 9.0+ Reserved for domains demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
 A-Tier Threshold: 7.50 - 8.99
