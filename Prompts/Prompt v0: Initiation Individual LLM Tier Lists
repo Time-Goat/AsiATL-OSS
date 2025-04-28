@@ -34,7 +34,16 @@ Project_examples = [Pause_ai, Anthropic's_Constitutional_AI, Cooperative_Inverse
 Clarifying note: The term 'Project' is used broadly here to encompass specific organizations, labs, funded initiatives, research programs, key theoretical approaches, techniques, or relevant movements within a Domain.
 Clarifying Note: Aim for at least 3 representative Project examples where possible, but accuracy is paramount
 
-4. Tier Structure: Tiers will be [S, A, B, C, D, E, F].
+4. Tier Structure: Tiers will be [S, A, B, C, D, E, F]
+
+S-Tier Threshold: 9.0+ Reserved for domains demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
+A-Tier Threshold: 7.50 - 8.99
+B-Tier Threshold: 6.25 - 7.49
+C-Tier Threshold: 5.00 - 6.24
+D-Tier Threshold: 3.75 - 4.99
+E-Tier Threshold: 0 - 3.75 Approaches highly ineffective based on demonstrably flawed premises about core alignment challenges (e.g., misunderstanding orthogonality/instrumental convergence), consistently failing empirical tests, misdirecting resources, or relying on naive assumptions insufficient for AGI/ASI complexity. Neglects core difficulties acknowledged by mainstream alignment or relies on wishful thinking.
+F-Tier Threshold: 0 - 3.75 Approaches/ideologies actively counterproductive or harmful to ASI alignment/safety. Promoting reckless capability acceleration without commensurate safety focus or actively dismissing risks, obstructing safety research/discourse, deliberately developing/proliferating known dangerous capabilities irresponsibly, pursuing paths demonstrably increasing existential risk via gross negligence/malicious intent/extreme disregard for catastrophic consequences. Makes safe ASI significantly harder/riskier.
+
 
 5. Evaluating total scores for domains and projects based on the following 10 point scale criteria: Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score).
 Clarifying Note: For Pdoom_score and Cost_score, a higher numerical score (closer to 10) reflects a worse outcome (higher risk increase / higher resource cost) and thus leads to a larger penalty subtraction in the Total_score formula. A score closer to 0 or 1 indicates minimal risk increase or very low cost.
