@@ -1,3 +1,50 @@
+
+
+
+
+
+
+
+
+
+5/4/25 {
+
+added ranking/scoring updates{ Before assigning final scores, explicitly compare the domains/projects against each other on each criterion. Ask: 'Is Domain X significantly more impactful than Domain Y?' 'Is Project A demonstrably less feasible than Project B?' Use these relative judgments to help spread scores across the 1-10 range for each criterion, rather than defaulting to mid-range scores for everything.
+
+OLD: In cases where complete data is not available for every criterion, apply your analytical judgment to assign the most plausible score based on your research; present scores directly without noting uncertainty.
+NEW: When data is incomplete, estimate scores by comparing to similar domains/projects or using expert consensus trends (e.g., if a project resembles ARC’s ELK, base its Feasibility on ELK’s progress). present scores directly without noting uncertainty.
+
+ADDED: Ensure scores are spread across tiers (S to F) to reflect meaningful differences, avoiding over-clustering in any single tier (e.g., no more than 25% of entries in one tier unless justified).
+ADDED: Make sure to find F tier entires that are to any degree popular and add them to F tier, it's very valuable to showcase bad quality entries.
+ADDED: Optionally adjust weights if justified (e.g., increase Feasibility to 0.30 if it’s a current bottleneck), and briefly explain any changes in the Total Score Analysis.
+}
+
+Tier placement score ranges & qualitative anchors Update:{
+S-Tier Threshold: 9.0+ Reserved for domains demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
+A-Tier Threshold: 7.50 - 8.99 Highly promising approaches with strong theoretical grounding and emerging empirical support, addressing core alignment challenges, though potentially lacking full scalability or formal guarantees yet.
+B-Tier Threshold: 6.00 - 7.49 Solid, credible approaches contributing meaningfully to alignment, but may face significant feasibility/scalability hurdles, lack robustness, or only address partial aspects of the problem.
+C-Tier Threshold: 4.5 - 5.99 Approaches with plausible theoretical basis but limited empirical validation, notable limitations, potential scalability issues, or addressing less central aspects of the alignment problem.
+D-Tier Threshold: 3.00 - 4.49 Speculative, niche, or less developed approaches with significant theoretical or practical challenges, questionable assumptions, or limited perceived impact on core alignment difficulties.
+E-Tier Threshold: 1.5 - 3.0 Approaches highly ineffective based on demonstrably flawed premises about core alignment challenges (e.g., misunderstanding orthogonality/instrumental convergence), consistently failing empirical tests, misdirecting resources, or relying on naive assumptions insufficient for AGI/ASI complexity. Neglects core difficulties acknowledged by mainstream alignment or relies on wishful thinking.
+F-Tier Threshold: 0 - 1.49 Approaches/ideologies actively counterproductive or harmful to ASI alignment/safety. Promoting reckless capability acceleration without commensurate safety focus or actively dismissing risks, obstructing safety research/discourse, deliberately developing/proliferating known dangerous capabilities irresponsibly, pursuing paths demonstrably increasing existential risk via gross negligence/malicious intent/extreme disregard for catastrophic consequences. Makes safe ASI significantly harder/riskier.
+
+}
+
+within the "your task" Combined{Make holistic improvements to an existing asi alignment Tier List. Do this by critically analyzing and identifying areas for improvement, such as completeness of resource coverage, current tier placements, and overall quality. Your improvements should aim to enhance the tier list's overall accuracy in representing the current state of alignment research, its comprehensiveness in covering impactful efforts, and its usefulness to fellow researchers.
+While operating with superhuman logic and research ability, apply critical judgment and discernment to evaluate the relative strengths, weaknesses, promises, and perils of different alignment approaches. Your goal is an insightful and differentiating tier list that reflects the current understanding of the field's landscape, not merely a conservative calculation. Don't shy away from making clear distinctions where evidence and logical analysis support them.}
+
+into  {
+Enhance the existing ASI alignment Tier List's accuracy, comprehensiveness, and usefulness for researchers. To achieve this, apply your superhuman analytical abilities with critical judgment and discernment. Evaluate the relative strengths, weaknesses, promise, and perils of different approaches to create an insightful and differentiating tier list. This list should accurately reflect the current state of the alignment field, making clear, evidence-based distinctions and avoiding overly conservative or clustered placements.
+
+}
+
+
+
+
+
+}
+
+
 4/28/25 Updated v1.0 and v0.0 { added tier range scores to the prompt instead of having them in the comments. 
 
 S-Tier Threshold: 9.0+ Reserved for domains demonstrating rigorously verified, scalable, and robust success in aligning ASI with complex human values under adversarial conditions, across diverse domains, and with formal guarantees against catastrophic failures like deception or power-seeking. No current approaches meet this stringent standard.
