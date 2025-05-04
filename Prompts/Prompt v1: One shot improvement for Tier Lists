@@ -12,8 +12,109 @@ You should apply your super-human level researching abilities, logic, and method
 Evaluate a total score for each newly added resource and provide the total score analysis for domains of research (you don’t need to add a total score analysis write up for Projects, although you do need to score each project).
 
 2. Re-Evaluating total scores for domains and projects based on the following 10 point scale criteria: Total_score =(0.25×Impact_score)+(0.25×Feasibility_score)+(0.10×Uniqueness_score)+(0.15×Scalability_score)+(0.15×Auditability_score)+(0.10×Sustainability_score)−(0.25×Pdoom_score)−(0.10×Cost_score).
-For Pdoom_score and Cost_score, a higher numerical score (closer to 10) reflects a worse outcome (higher risk increase / higher resource cost) and thus leads to a larger penalty subtraction in the Total_score formula. A score closer to 0 or 1 indicates minimal risk increase or very low cost.
-Pdoom_score and Cost_score will count against the final score.
+
+**START: Scoring Criteria Definitions for ASI Alignment Tier List**
+
+**IMPORTANT NOTE:** These definitions serve as guidelines for evaluation. Assessing complex alignment approaches requires significant domain expertise and nuanced judgment. Use these definitions to anchor reasoning and ensure relative consistency. The goal is to differentiate approaches based on these factors, utilizing the full 1-10 scale where appropriate, rather than clustering scores in the mid-range without strong justification.
+
+---
+
+## 1. Impact_score
+
+*   **Focus:** How significantly does this approach contribute to solving the core ASI alignment problem *if successful*?
+
+*   **9–10: Transformative Potential:** Directly addresses and offers a plausible, robust solution to one or more *core* alignment challenges (e.g., inner alignment/goal misgeneralization, scalable oversight, preventing deception/power-seeking). Success would represent a fundamental breakthrough.
+*   **7–8: High Leverage:** Significantly advances the state-of-the-art on crucial sub-problems or provides powerful enabling tools/frameworks that substantially increase the tractability of core challenges for other approaches.
+*   **5–6: Meaningful Contribution:** Provides useful concepts, empirical results, or partial solutions that contribute positively to the field, but don't fundamentally alter the landscape or solve a core challenge on their own. Addresses important, but perhaps less central, aspects.
+*   **3–4: Marginal Relevance:** Offers minor insights, addresses niche aspects, or provides tools with limited applicability to central alignment difficulties. Benefit exists but is small or indirect.
+*   **1–2: Negligible or Counterproductive:** Offers little to no discernible benefit towards solving alignment, potentially distracts resources, or is based on flawed premises irrelevant to the core problem.
+
+---
+
+## 2. Feasibility_score
+
+*   **Focus:** How likely is this approach to be successfully developed and implemented with foreseeable resources, knowledge, and technology?
+
+*   **9–10: High Confidence:** Strong theoretical grounding *and* compelling empirical evidence (or clear path to it). Requires primarily known engineering/science; major roadblocks seem unlikely. Clear implementation path.
+*   **7–8: Reasonably Achievable:** Plausible theoretical basis and some supporting evidence, but faces significant, identifiable research or engineering challenges that appear surmountable with concerted effort.
+*   **5–6: Uncertain Outcome:** Theoretically plausible but relies heavily on unproven assumptions, requires significant conceptual breakthroughs, or faces major practical/engineering hurdles with unclear solutions. Success is highly uncertain.
+*   **3–4: Highly Speculative:** Relies on multiple major breakthroughs, future technological capabilities far beyond current state, or assumptions that are weakly justified. Faces fundamental conceptual or practical roadblocks.
+*   **1–2: Seems Impossible/Flawed:** Appears theoretically incoherent, contradicts known principles, or requires violating fundamental limits. No plausible path to success visible.
+
+---
+
+## 3. Uniqueness_score
+
+*   **Focus:** How distinct is this approach from other ongoing efforts? Does it explore a novel direction or address a neglected aspect?
+
+*   **9–10: Fundamentally Novel:** Represents a truly distinct paradigm or tackles a critical aspect of alignment largely ignored by other approaches. Offers a unique angle with little overlap.
+*   **7–8: Significant Differentiation:** Introduces key novel concepts, methods, or perspectives, or combines existing ideas in a substantially unique way compared to mainstream efforts. Offers valuable diversity.
+*   **5–6: Moderate Distinction:** Has some unique features or focuses on specific niches within broader established approaches, but shares significant overlap in core assumptions or techniques with other work.
+*   **3–4: Incremental Variation:** Primarily a minor variation, refinement, or specific application of a well-established existing approach. Low novelty.
+*   **1–2: Highly Redundant:** Essentially duplicates existing or widely explored approaches with no significant differentiation in concept or methodology. Offers little new perspective.
+
+---
+
+## 4. Scalability_score
+
+*   **Focus:** How well is this approach expected to function as AI capabilities increase towards AGI/ASI levels and are applied in complex, open-ended domains?
+
+*   **9–10: Robust Scaling Expected:** Strong theoretical reasons and/or empirical evidence suggest the approach remains effective, reliable, and safe even with vastly increased AI capability, intelligence, and operational complexity. Designed with scaling in mind.
+*   **7–8: Plausible Scaling Path:** Likely to remain relevant and effective for significantly more capable AI (early AGI), but may require non-trivial adaptations or face known scaling challenges that seem addressable.
+*   **5–6: Uncertain Scalability:** Effectiveness at high capability levels or in complex environments is questionable. May rely on assumptions that break down, require prohibitive oversight, or lack robustness against emergent phenomena. Significant scaling concerns.
+*   **3–4: Poor Scaling Prospects:** Likely to become ineffective, unsafe, or computationally intractable well before ASI levels. Fundamentally limited to simpler systems or narrow domains.
+*   **1–2: Fundamentally Unscalable:** Clearly breaks down or becomes irrelevant/dangerous with even moderately increased AI capability or complexity. Not viable beyond narrow AI.
+
+---
+
+## 5. Auditability_score
+
+*   **Focus:** How effectively can we inspect, understand, verify, and predict the system's internal state, reasoning, and behavior to ensure it aligns with intended objectives?
+
+*   **9–10: Highly Verifiable/Transparent:** Enables deep inspection, formal verification, reliable interpretation of internal reasoning, and strong guarantees about behavior. Allows high confidence in assessing alignment.
+*   **7–8: Reasonably Interpretable:** Allows meaningful inspection and understanding of key aspects of the system's functioning and alignment, though perhaps without full formal guarantees or complete transparency. Enables good confidence.
+*   **5–6: Moderately Opaque:** Allows some level of inspection or behavior analysis, but significant aspects of internal state or reasoning remain black-boxed or very difficult to interpret reliably. Auditability is limited.
+*   **3–4: Largely Black-Box:** Extremely difficult to understand internal reasoning or predict behavior reliably beyond input-output observations. Offers very limited insight for verifying alignment.
+*   **1–2: Fundamentally Uninspectable:** Resists meaningful interpretation or verification by design or due to inherent complexity. Provides virtually no basis for trusting internal alignment.
+
+---
+
+## 6. Sustainability_score
+
+*   **Focus:** How viable is the continued research, development, and implementation of this approach long-term, considering resource needs, personnel, and institutional/societal factors?
+
+*   **9–10: Highly Sustainable:** Requires readily available resources, standard expertise, fits well within existing funding/institutional structures, faces few societal barriers. Easy to maintain long-term effort.
+*   **7–8: Moderately Resource-Intensive:** Requires significant but realistically attainable funding, specialized expertise, or computational resources. Long-term effort is plausible within dedicated institutions.
+*   **5–6: Resource-Heavy / Niche:** Requires substantial, dedicated, and potentially scarce resources (funding, compute, niche talent). May depend on specific institutional backing; long-term viability is uncertain.
+*   **3–4: Extremely Demanding / Fragile:** Requires massive, potentially unrealistic resources, unique irreplaceable talent, or faces significant institutional/societal friction. Difficult to sustain over time.
+*   **1–2: Fundamentally Unsustainable:** Depends on impossible resource levels, faces insurmountable barriers, or is inherently unstable institutionally/societally. Not viable long-term.
+
+---
+
+## 7. Pdoom_score (PENALTY SCORE)
+
+*   **Focus:** How much does pursuing this approach *increase* the net existential risk (p(doom)) compared to baseline trajectories (e.g., via reckless capability acceleration, creating unstable dynamics, diverting crucial safety effort)? **Higher score = Worse = Larger penalty.**
+*   **9–10: Grossly Increases Risk:** Directly enables/accelerates dangerous capabilities without commensurate safety, knowingly creates highly unstable/uncontrollable systems, or actively undermines crucial safety efforts. Major negative impact on x-risk.
+*   **7–8: Substantially Increases Risk:** Significantly risks accelerating dangerous capabilities ahead of safety, contributes strongly to arms race dynamics, or introduces major new systemic risks. Clear negative impact.
+*   **5–6: Moderately Increases Risk:** May inadvertently accelerate capabilities somewhat, introduce minor instabilities, carry significant opportunity costs by diverting resources from better paths, or have notable dual-use concerns. Measurable potential negative impact.
+*   **3–4: Slightly Increases Risk:** Carries minor opportunity costs or very small potential downsides/instabilities. Marginal potential negative impact.
+*   **1–2: Neutral or Risk-Reducing:** Believed to be neutral with respect to existential risk, or potentially risk-reducing. No significant increase in p(doom).
+
+---
+
+## 8. Cost_score (PENALTY SCORE)
+
+*   **Focus:** How resource-intensive is this approach (funding, computation, specialized personnel, time)? **Higher score = More Costly = Larger penalty.**
+
+*   **9–10: Astronomically Expensive:** Requires resources comparable to major national projects (e.g., space program), massive compute beyond current state-of-the-art availability, decades of focused effort. Prohibitively high cost.
+*   **7–8: Extremely Expensive:** Requires resources typical of the largest AI labs or major government initiatives, cutting-edge supercomputing access, large teams of highly specialized talent over many years. Very high cost.
+*   **5–6: Very Expensive:** Requires resources typical of well-funded startups or large academic centers, significant high-performance computing, specialized teams over multiple years. High cost.
+*   **3–4: Moderately Expensive:** Requires resources typical of standard research grants or small/medium labs, readily available compute, small teams over a reasonable timeframe. Moderate cost.
+*   **1–2: Relatively Inexpensive:** Can be pursued by individual researchers or small groups with standard hardware, limited funding, and within a short-to-medium timeframe. Low cost.
+
+---
+**END: Scoring Criteria Definitions**
+
 Domains of research and Projects both have separate scores that should be evaluated separately. Project scores do not need a justification write up, only the domain of research total score analysis needs a detailed justification.
 When data is incomplete, estimate scores by comparing to similar domains/projects or using expert consensus trends (e.g., if a project resembles ARC’s ELK, base its Feasibility on ELK’s progress). present scores directly without noting uncertainty.
 When scoring Projects nested under Domains, prioritize scoring the specific entity (lab, organization, distinct program) undertaking the work if identifiable.
