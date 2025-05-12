@@ -20,7 +20,7 @@ Clarifying Note: In cases where complete data is not available for every criteri
 Clarifying Note: When scoring Projects nested under Domains, prioritize scoring the specific entity (lab, organization, distinct program) undertaking the work if identifiable.
 Clarifying note: round each score down to the nearest hundredth.
 
-3. Re-Ranking Existing Resources: propose to move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. If you propose to move a resource, also update the total score analysis and total score. Ask yourself: Are there resources that seem obviously too high or too low in their current tier compared to others? Are the Tier Placements Justified? Are there any Resources Misplaced?
+3. Re-Ranking Existing Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. If you move a resource, also update the total score analysis and total score. Ask yourself: Are there resources that seem obviously too high or too low in their current tier compared to others? Are the Tier Placements Justified? Are there any Resources Misplaced?
 
 4. Merging or deleting entries to reduce redundancy: Be Ruthless with Redundancy: If two domains of research mean essentially the same in the context of the list's purpose, merge or delete. And when i say merge i don't mean to simply append one name to the other, it's more like pick the best name for the domain or make a new one that is better suited, then add the projects together.
 
