@@ -2,6 +2,10 @@
 
 
 5/11/25 v1.1 update{
+
+ADDED file: Prompt v4: Re-Rank Tier List
+
+
 Old: 3. Re-Ranking Existing Resources: *Propose to* move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. If you propose to move a resource, also update the total score analysis and total score. Ask yourself: Are there resources that seem obviously too high or too low in their current tier compared to others? Are the Tier Placements Justified? Are there any Resources Misplaced?
 New: 3. Re-Ranking Existing Resources: move specific resources to different Tiers based on holistic coherence, new analysis, or refined evaluations against the criteria. If you move a resource, also update the total score analysis and total score. Ask yourself: Are there resources that seem obviously too high or too low in their current tier compared to others? Are the Tier Placements Justified? Are there any Resources Misplaced?
 
